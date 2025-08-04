@@ -1,0 +1,1782 @@
+19II
+General Department
+Introduction
+The IMF’s resources are held in the General Department, which consists
+of three separate accounts: the General Resources Account (GRA), theSpecial Disbursement Account (SDA), and the Investment Account.
+General Resources Account
+The GRA is the principal account of the IMF and handles by far the larg-
+est share of transactions between the IMF and its membership. The GRAcan best be described as a pool of currencies and reserve assets built up frommembers’ fully paid capital subscriptions in the form of quotas.
+1 Quotas are
+the basic building blocks of the IMF. They broadly reflect each member’srelative economic size, taking into account the quotas of similar countries.Quotas determine the maximum amount of financial resources that a mem-ber is obligated to provide to the IMF, voting power in IMF decision making,
+and a member’s share of SDR allocations. The financial assistance a member
+may obtain from the IMF is also generally based on its quota.
+The financial structure of the IMF rests on the principle that quota sub-
+scriptions are the basic source of financing for the GRA. A quarter of amember’s quota subscription is normally paid in reserve assets, with theremainder paid in the member’s own currency.
+2 Currencies held by the IMF
+are of two types, usable and unusable. A currency is usable if the issuingmember’s external payments position is strong enough for it to be calledupon to finance IMF credit to other members. Other currencies, that is, the
+1Reserve assets are those that are readily available and accepted for international pay-
+ments, such as the four currencies currently recognized as “freely usable” by the IMF: the
+U.S. dollar, euro, Japanese yen, and pound sterling. A freely usable currency is one that the
+IMF determines is widely used to make payments for international transactions and istraded in the principal exchange markets.
+2Prior to the Second Amendment of the IMF Articles on April 1, 1978, the reserve asset
+portion was paid in gold, and after that, in SDRs or “usable” currencies of other membersas determined by the IMF.
+FINANCIAL ORGANIZATION AND OPERATIONS OF THE IMF
+20currencies of borrowers or financially weak members, are considered unus-
+able. Thus, a portion of the GRA’s pool of resources consists of currencies
+that cannot be used, leaving the IMF’s effective lending capacity at about
+half of total quotas.3
+The IMF may also supplement its quota resources by borrowing and
+through additions to its precautionary balances. These balances comprisereserves in the GRA as well as resources that have been set aside in the first
+Special Contingent Account (SCA-1) to protect against the risk of overdue
+payments. These resources are not segregated from other resources of theGRA and can therefore finance the extension of credit.
+With its usable resources, the IMF provides financing to its member coun-
+tries. Members “borrow” from the GRA under the IMF’s “credit tranche”
+policies or under special policies or facilities.
+4 The credit tranches provide
+financing for balance of payments need, arising from almost any cause,whereas credits under other facilities deal with needs arising from specifiedcauses. Financial assistance is typically made available in installments thatare linked to the borrowing country’s observance of specific economic andfinancial policy conditions that must be met before the next installment isreleased. These conditions are agreed with the member under agreements
+called “arrangements . ” Members using IMF resources pay a market-based
+rate of interest on their outstanding use of credit from the IMF.
+A member’s financial position in the IMF is measured by the GRA’s hold-
+ings of its currency relative to quota. Members draw on the IMF’s pool ofmembers’ currencies and SDRs through a purchase-repurchase mechanism
+(Box II.1). A member obtaining resources from the IMF “purchases” either
+SDRs or the currency of another member in exchange for an equivalentamount (in SDR terms) of its own currency, and later reverses the transaction
+3A member with usable currency pays in a usable currency whereas other members pay
+only the reserve asset portion in usable currency. Any member may pay the reserve asset
+portion in SDRs. Currencies are held by the IMF in depository accounts at members’ cen-tral banks. Payment of the nonreserve asset portion of quota subscriptions is normally in
+the form of promissory notes (nonnegotiable, non-interest-bearing securities) that are con-
+verted into currency on demand.
+4GRA credit is normally governed by the IMF’s general lending policies (also known as
+“credit tranche” policies), as opposed to the special policies that apply to other types ofcredit. Both sets of policies are discussed in the section “Credit Outstanding.” IMF credit
+has traditionally been provided in “tranches” (segments), equivalent to 25 percent of
+quota, as explained in the section “Credit Tranche Policies.” “Borrowing” is undertaken
+through the purchase-repurchase mechanism, which is discussed in Box II.1.
+II General Department
+21BOX II.1. T HE IMF’ S MAJOR  FINANCING  MECHANISM
+The IMF’s lending is financed from the capital subscribed by member coun-
+tries. Each country is assigned a quota that determines its maximum financialcommitment to the IMF. A portion of the quota is provided in the form ofreserve assets (foreign currencies acceptable to the IMF or SDRs) and theremainder in its own currency. The IMF extends financing by providing reserveassets to the borrower from the reserve asset subscriptions of members or bycalling on countries that are considered financially strong to exchange theircurrency subscriptions for reserve assets.
+The loan is disbursed or drawn by the borrower “purchasing” the reserve
+assets from the IMF with its own currency.
+1 Repayment of the loan is achieved
+by the borrower “repurchasing” its currency from the IMF with reserve assets.The IMF levies a basic rate of interest (charges) on loans based on the SDRinterest rate and imposes surcharges depending on the amount and maturity ofthe loan and the level of credit outstanding.
+A country that provides reserve assets to the IMF as part of its quota sub-
+scription or through the use of its currency receives a liquid claim on the IMF(a reserve, or reserve tranche, position) which can be encashed on demand toobtain reserve assets to meet a balance of payments financing need.
+These claims earn interest (remuneration) based on the SDR interest rate
+and are considered by members as part of their international reserve assets. AsIMF loans are repaid (repurchased) by the borrower with reserve assets, thesefunds are transferred to the creditor countries in exchange for their currenciesand the creditor claim on the IMF is extinguished.
+The purchase-repurchase approach to IMF lending affects the composition
+of the IMF’s resources but not the overall size. An increase in loans outstand-
+ing will reduce the IMF’s holdings of reserve assets and the currencies of mem-
+bers that are financially strong and increase the IMF’s holdings of thecurrencies of countries that are borrowing from the IMF. The amount of theIMF’s holdings of reserve assets and the currencies of financially strong coun-
+tries determines the IMF’s lending capacity (liquidity).
+While the purchase-repurchase mechanism is not technically or legally a
+“ l o a n , ”  i t  i s  t h e  f u n c t i o n a l  e q u i v a l e n t  o f  a  l o a n .  S i mi l a r l y ,  I M F  l e n d i n g“arrangements” provide for drawings in installments upon the fulfillment ofcertain policy conditions. Thus, they are similar to conditional lines of credit.For ease of reference, these more commonly understood terms are often usedin this pamphlet rather than the unique internal IMF terminology.
+1In making a purchase, the member provides domestic currency to the IMF addi-
+tional to currency previously paid to the IMF for the member’s quota subscription.
+FINANCIAL ORGANIZATION AND OPERATIONS OF THE IMF
+22by a “repurchase” of its currency held by the IMF with SDRs or the currency
+of another member.5
+Members receive a liquid claim on the IMF (called a reserve, or reserve
+tranche, position) for the reserve assets they provide to the IMF. This claimearns a market-related rate of interest (called remuneration) and can be
+encashed on demand to obtain reserve assets from the IMF. Consequently, a
+member’s provision of reserve assets to the IMF changes the composition of
+the member’s reserve assets
+—from, for example, U.S. dollars to claims on
+the IMF —rather than the overall size of its international reserve assets. As
+the borrower repays the IMF loan (repurchases its currency with reserve
+assets), these funds are transferred to the creditor countries in exchange for
+their currencies, and the creditor’s claim on the IMF is extinguished.
+A member’s purchase of currency reduces the IMF’s holdings of the cur-
+rency purchased, enlarges the reserve tranche position of the country whosecurrency is purchased, and increases the IMF’s holdings of the purchasing
+member’s currency. Charges (interest) are not levied on purchases within
+the reserve tranche, as these resources are the member’s own reserves. Inter-
+est is charged on the use of IMF credit, which is obtained through purchases
+outside of the reserve tranche. A member can choose whether or not to useits reserve tranche before utilizing IMF credit. Alternative financial posi-
+tions of members in the IMF’s pool of resources in the GRA are illustrated
+in Figure II.1.
+The currency purchased from the IMF must be that of a member with a
+strong external position, whose subscribed currency is considered usable forIMF transactions. If the currency purchased is not freely usable, the member
+whose currency is purchased is obliged to exchange purchased amounts of
+its currency for freely usable currencies. If the purchased currency is freely
+usable, the borrower can undertake transactions in the private exchange
+markets or with the issuer of the freely usable currency to acquire a differentcurrency. A member whose currency is being used is obligated, if necessary,
+to provide an amount of reserve assets of up to 100 percent of its quota. The
+amount of reserve assets provided to the IMF has in practice fallen well
+short of this maximum. In planning and executing members’ transactions,
+members’ currencies are used in the financing of IMF credit according to
+their relative quota shares. In turn, members’ currencies are used in effect-
+5This financing mechanism has its roots in the credit facilities that existed between cen-
+tral banks before the IMF was established.
+IIGeneral Department
+23FIGURE II.1.  M EMBER FINANCIAL POSITIONS IN THE GRA
+Member 
+with fully 
+paid quota 
+subscriptionMember who has 
+purchased its reserve 
+tranche but not 
+used IMF creditMember 
+making use 
+of IMF credit, 
+without 
+purchasing 
+its reserve 
+trancheMember 
+making use 
+of IMF credit, 
+after purchasing 
+its reserve tranche
+Member 
+whose currency 
+has been used 
+to provide creditIMF’s holdings of member currency
+IMF’s holdings of member reserves
+Reserve
+tranche
+position
+Remun-eratedreservetranchepositionUnremun-erated reserve tranche positionQUOTA
+(a) (b) (c) (d) (e)
+Situation (a): A member has paid its quota subscription in full and not drawn on its reserve 
+tranche. The remunerated reserve tranche position excludes certain holdings (holdings acquired as a result of a member’s use of IMF credit and holdings in the IMF No. 2 Account that are less than 
+1/10 
+of 1 percent of quota; see “IMF Accounts in Member Countries”). See text for an explanation of the unremunerated portion of the reserve tranche.
+Situation (b): The member has drawn its reserve tranche in full. The reserve tranche purchase is 
+not subject to charges (interest). 
+Situation (c):  The member is using IMF resources but has not drawn its reserve tranche. The level 
+of holdings in excess of the member's quota is subject to charges. 
+Situation (d): The member is using IMF resources, in addition to having drawn its reserve 
+tranche. The level of holdings in excess of the member’s quota is subject to charges.
+Situation (e):  The IMF has made use of the member’s currency and pays the member re-
+muneration on its enlarged reserve tranche position.
+FINANCIAL ORGANIZATION AND OPERATIONS OF THE IMF
+24ing receipts to the IMF in a manner that adjusts reserve tranche positions
+toward a uniform proportion of their quotas.6
+The purchase-repurchase mechanism explains why, from an accounting
+perspective, the IMF’s total resources do not vary as a result of the IMF’s
+financial assistance —only the composition of its assets change. Moreover,
+the value of members’ currencies held in the GRA’s pool of resources is
+maintained in SDR terms over time through periodic additions to the
+amounts of currencies that are depreciating against the SDR and reductionsfrom those that are appreciating against the SDR. This maintenance of value
+provision is an obligation of members under the Articles.
+7
+Special Disbursement Account
+The Special Disbursement Account (SDA) is the vehicle for receiving and
+investing profits from the sale of the IMF’s gold (i.e., the net proceeds in
+excess of the book value of SDR 35 a fine ounce), and for making transfersto other accounts for special purposes authorized in the Articles, in particu-
+lar for financial assistance to low-income members of the IMF.
+Investment Account
+The IMF is authorized to establish an Investment Account in the General
+Department; to date, however, no decision has been taken to this effect.
+Investments of amounts up to the level of accumulated reserves may bemade only in income-generating marketable obligations of international
+financial organizations or of the member whose currency is used for the
+investment.
+8 The income may be reinvested or used to meet the expenses of
+conducting the business of the IMF, including both operational and adminis-
+trative expenses.
+6For an analysis of the key elements underlying the GRA’s costs and revenues and past
+proposals for simplification or modification, see “Financing the Fund’s Operations—
+Review of Issues,” March 2000, on the IMF’s website (http://www.imf.org/external/np/tre/
+ffo/2001/fin.htm).
+7Article V , Section 11 (a).
+8The resources in the GRA are managed in such a way as to lower the IMF’s costs or to
+increase the IMF’s revenue. In order to be more profitable than GRA resources, resources
+in an Investment Account would need to be invested at a rate that exceeds the SDR inter-est rate after taking into account any exchange risk.
+II General Department
+25The Balance Sheet
+The relationships among the sources and uses of resources in the General
+Department, and their relative magnitudes, are summarized in its balancesheet (Table II.1).
+On the asset side, the first major item is credit outstanding at the end of
+FY2001 of SDR 42.2 billion, which is the value of financing extended by the
+IMF to its members. Financing to debtor members is largely funded by theuse of the currencies of creditor members and is reflected in the resultingreserve tranche positions of creditor members (see Box II.1). Members withoutstanding credit pay a market-related rate of interest on these loans whichfully covers the payment of interest to the creditors providing the resources
+to the IMF, as further explained below. The vast bulk of other assets held by
+the IMF in the GRA was usable and other currencies, equal to SDR 165.7 bil-lion. Gold, valued at SDR 5.9 billion, represented a relatively small share oftotal assets.
+9 The IMF receives no interest on its gold or currency holdings
+that do not result from the extension of IMF credit. The only interest-bearingasset held by the IMF other than its outstanding credit is its holdings of
+SDRs, which were SDR 2.4 billion. With the addition of some minor receiv-
+ables and other assets, total assets of the GRA at end-April 2001 amountedto SDR 217.5 billion.
+On the resources and liabilities side, total quota resources were SDR 212.4
+billion on April 30, 2001. As noted above, some of these subscriptionresources were usable and some were not. Usable currencies amounted to
+SDR 109.7 billion and unusable currencies SDR 56.0 billion. In addition,
+there were SDR 46.7 billion in reserve tranche positions of members. Thereserve tranche positions of IMF members result from initial quota paymentsand the increase due to the extension of IMF credit to other members. Thesereserve positions earn a market-related rate of return, as explained below.Precautionary balances, which include reserves and the balance in the Special
+Contingent Account (SCA), amounted to an additional SDR 4.5 billion. Add-
+ing a small amount of interest (remuneration) payable and some other minorliabilities gives a total of SDR 217.5 billion of GRA resources and liabilities.
+9The IMF’s holdings of gold are valued at historical cost. For most of the gold holdings,
+this is SDR 35 a fine ounce. Market prices for gold are much higher, which imparts a funda-
+mental strength to the IMF’s financial position. See the discussion below in the section on“Gold Holdings.”
+FINANCIAL ORGANIZATION AND OPERATIONS OF THE IMF
+26TABLE  II.1. B ALANCE  SHEET  OF THE GENERAL  DEPARTMENT ,
+AS OF APRIL  30, 2001
+(In billions of SDRs)
+Assets Resources and Liabilities
+General Resources Account: General Resources Account:
+Members’ resources:
+Quota subscriptions, represented by:
+Credit outstanding 42.2 Reserve tranche positions 46.7Usable currencies 109.7 Usable currencies 109.7Other currencies 56.0 Other currencies 56.0
+Total currencies 207.9 Total quotas 212.4
+Precautionary balances:
+Reserves of the GRA 3.3SCA-1 1.2
+4.5
+SDR holdings 2.4 Liabilities:
+Gold holdings 5.9 Remuneration payable 0.4Receivables 0.6 Other liabilities 0.2Other assets 0.7 Total liabilities 0.6
+Total GRA 217.5 Total GRA 217.5
+Special Disbursement Account: Special Disbursement Account:
+Investments of the SDA 2.4 Accumulated resources of the SDA 2.8
+SAF loans 0.4
+Total SDA 2.8
+Total assets 220.3 Total resources and liabilities 220.3
+Note: Numbers may not add to totals due to rounding.
+At end-April 2001, the IMF did not have any outstanding borrowing, but if it
+had, the amount of borrowing outstanding would have been shown on theliabilities side, with additional offsetting credit extended by the IMF to itsmembers on the asset side. A comparison of the relative size of theseresources and liabilities demonstrates that the IMF is overwhelmingly aquota-based institution.
+II General Department
+27The rest of the General Department consists solely of the relatively small
+amount of assets and liabilities of the SDA, SDR 2.8 billion at end-April
+2001. These represent the accumulated resources of the account, which
+reflect the profits and investment returns realized on past gold sales on theresources side, and the investment of these resources on the asset side. Theincome from these investments is transferred to the PRGF and PRGF-HIPCTrusts to provide concessional financial assistance to low-income members.There was also a small amount (SDR 0.4 billion) of loans still outstanding
+from the Structural Adjustment Facility (SAF) at end-April 2001.
+10 T hese
+loans were financed with SDA resources.
+The remainder of this chapter expands upon the above discussion. It first
+discusses each item on the asset side of the GRA —namely, credit outstand-
+ing, which includes a description of the various terms and conditions of IMFlending, followed by relatively short sections on currency, SDR, and gold
+holdings. It then describes each item on the resources and liabilities side of
+the GRA
+—namely, quotas, including reserve tranche positions, and precau-
+tionary balances. Next, the chapter explains how the supply of and demandfor GRA resources is managed through the quarterly financial transactionsplan, and how the IMF monitors its overall level of liquidity in the GRA.Finally, it shows how IMF transactions are reflected in the accounts and bal-
+ance sheets of member countries.
+The management and investment strategy for the resources in the SDA is
+covered in Chapter IV .
+The Asset Side
+Credit Outstanding
+Credit outstanding, as the caption suggests, represents loans already pro-
+vided to members under the various IMF facilities. This section firstdescribes the general terms and conditions of IMF lending, followed by a
+discussion of the IMF’s financial policies and lending facilities.
+10The SAF is discussed in Chapter IV .
+FINANCIAL ORGANIZATION AND OPERATIONS OF THE IMF
+28General Terms and Conditions
+Balance of Payments Need
+Members using IMF resources must have a balance of payments need. A
+borrowing member cannot use IMF resources in the absence of a represen-
+tation of balance of payments need, and the extent of their use cannot
+exceed that need. Borrowing usually takes place under an IMF arrange-ment, which is similar to a conditional line of credit and is associated with
+the implementation of an economic reform program in a member country.
+The most common type of arrangement is a Stand-By Arrangement in thecredit tranches or an arrangement under the Extended Fund Facility
+(EFF).
+11 Such arrangements can be approved on the basis of a prospective
+balance of payments need, although the existence of a balance of paymentsneed does not, in itself, entitle a member to draw on the IMF.
+The concept of balance of payments need has evolved over time. The con-
+cept includes three distinct elements: the balance of payments position ofthe member, its foreign reserve position, and developments in its reserve
+position.
+12 These three elements are regarded as separate, and a representa-
+tion of need can be based on any one of them. An operational frameworkhas been developed over the years to serve as the basis for judgments on the
+magnitude of balance of payments deficits and the adequacy of foreign
+reserves. In the implementation of this framework, the circumstances ofmembers are taken into account.
+Once an arrangement has been approved by the IMF, a member’s repre-
+sentation of balance of payments need to make a purchase is not subject tochallenge, under a long-standing policy intended to assure the member of
+the availability of IMF resources committed to it, subject only to its meeting
+conditions specified in the arrangement. However, the IMF may take reme-dial action after a purchase under an arrangement or a reserve tranche pur-
+chase if it finds that the conditions for the purchase were not met, including
+that of balance of payments need.
+Other conditions may also be required. The IMF’s policies under particu-
+lar facilities may also stipulate requirements concerning the origins and
+nature of the underlying balance of payments disequilibrium. For instance,
+11See discussion below under “Financial Policies and Facilities.”
+12Article V, Section 3 (b)(ii).
+II General Department
+29the use of the Compensatory Financing Facility (CFF) is restricted to tempo-
+rary balance of payments deficits arising from overall export shortfalls orincreased costs of specified cereal imports.
+Access Policy
+The policy of the IMF is to encourage members to approach it for assis-
+tance at an early stage of their balance of payments difficulties. Members
+experiencing balance of payments problems can approach the IMF, but are
+under no obligation to do so at any time. Over the years, it has come to be
+recognized that the efficacy of the mixture of adjustment polices and financ-
+ing depends largely on the early adoption of corrective policy measures.
+Early resort to an adjustment program supported by IMF resources can help
+to avoid more drastic policy actions that may otherwise be required, thereby
+limiting the impact of the adjustment on other members.
+Quantitative limits on access are used to ensure equal treatment of mem-
+bers. Access limits are set in terms of quota, the basic measure of members’
+financial rights and obligations in the IMF. For the credit tranches and the
+EFF, which account for the lion’s share of IMF lending, the current limits
+take the form of an annual limit of 100 percent of quota on purchases over
+any 12-month period and a cumulative limit of 300 percent of quota on the
+level of IMF credit outstanding. Average annual access under these lending
+arrangements in recent years has been 40–50 percent of quota (Figure II.2).
+Other IMF facilities are subject to separate access limits or, in some cases,
+no explicit limits (Box II.2). In exceptional circumstances, these limits can be
+waived, as they were for members most immediately affected by the severe
+financial crises of the late 1990s.
+The level of access to GRA resources under Stand-By Arrangements and
+the EFF —that is, the amount that can be borrowed —is based on criteria
+that are applied uniformly to all members. These criteria seek to balance the
+needs of members against the overarching responsibility of the institution to
+safeguard and ensure the temporary use of its resources. The criteria are:
+• actual or potential need for resources from the IMF, taking into account
+other sources of financing and the desirability of maintaining a reason-
+able level of reserves;
+• ability to service indebtedness to the IMF, thereby protecting the
+revolving character of IMF resources;
+• amount of the outstanding use of IMF credit and record in using IMF
+resoures in the past.
+FINANCIAL ORGANIZATION AND OPERATIONS OF THE IMF
+30Phasing of Purchases
+An important feature of IMF lending is the phasing of disbursements. All
+arrangements above 25 percent of quota in the credit tranches —the upper
+credit tranches —and under the EFF are subject to conditionality and the
+phasing of purchases (see Chapter V). Purchases in the first credit tranche
+(up to 25 percent of quota) are not phased, but do incorporate some policy
+conditionality.
+Phasing refers to the practice of making IMF resources available in install-
+ments over the period of an arrangement, typically quarterly, subject to the
+observance of performance criteria, the completion of a program review, or
+both.13 This is intended to ensure that IMF financing goes hand in hand with
+13An “arrangement” is an assurance by the IMF that it stands ready to provide foreign
+exchange or SDRs under certain conditions during a specified period of time. The arrange-
+ment is in support of a detailed economic “adjustment program” of the member. See theGlossary for definitions of these terms.FIGURE II.2.  A VERAGE  ANNUAL ACCESS  UNDER  STAND -BY AND 
+EXTENDED ARRANGEMENTS1
+(In percent of quota)
+010203040506070
+2000 1999 1998 1997 1996 1995 1994 1993 1992 1991 1990
+1Excluding the cases with exceptional access (i.e., exceeding the access limits). Excluded 
+arrangements are Mexico’s 1995 Stand-By Arrangement; Indonesia’s, Korea’s and Thailand’s 1997 Stand-By Arrangements; Brazil’s 1998 Stand-By Arrangement; Indonesia’s 1998 Extended Arrangement; Turkey’s 1999 Stand-By Arrangement; and Indonesia’s 2000 Extended Arrangement. 
+II General Department
+31BOX II.2. T HE FRAMEWORK  FOR ACCESS  TO IMF R ESOURCES
+Quota-based access limits
+•T h e  credit tranches  (mainly accessed through Stand-By Arrangements)
+and the Extended Fund Facility  (EF F)  ar e su b j e ct t o t he  sa me a cc es s li mits .
+These consist of an annual limit of 100 percent of quota and a cumulative limit
+of 300 percent of quota. The annual limit applies to gross purchases in any 12-
+month period. The cumulative limit applies to credit outstanding, less sched-uled repurchases, plus scheduled purchases, over the period of commitment ofresources. These limits may be exceeded in exceptional circumstances. Aver-age annual access has been fairly stable at around half of the annual limit inrecent years (see Figure II.2).
+• Access under the Compensatory Financing Facility  (CFF) is subject to its
+own limits. These limits are cumulative, and include limits of 45 percent ofquota each for access under the export shortfalls and excess cereal imports ele-ments, and a combined limit of 55 percent of quota. These limits cannot beexceeded.
+• T h e  a mo u n t  o f  emergency assistance  f o r  n a t u r a l  d i s a s t e r s  a n d  f o r  p o s t -
+conflict cases is limited, in any one instance, to 25 percent of quota. Largeramounts can be made available on an exceptional basis in post-conflict cases.Emergency assistance was until recently subject to the access limits under thecredit tranches but was converted into a facility and excluded from theseaccess limits, pending further review.
+Access to other facilities
+•T h e  Supplemental Reserve Facility  (SRF) is not subject to explicit access
+limits. SRF resources are provided under Stand-By or Extended Arrange-ments in addition to credit tranche or EFF resources, which are subject toannual and cumulative limits. The IMF uses the same criteria for access to itsresources under all policies and facilities (see section on “General Terms andConditions”) but in the case of the SRF also takes into account the liquidityposition of the IMF, given the magnitude of the balance of payments need incases qualifying for this facility.
+•T h e  Contingent Credit Lines  (CCLs) are not subject to access limits but
+commitments under the CCL are expected to be in the range of 300–500 per-cent of quota. CCL resources are provided under Stand-By Arrangements, incombination with credit tranche resources up to the annual or the cumulativelimit. As with the SRF, the liquidity position of the IMF is taken into accountwhen determining access under the CCL.
+FINANCIAL ORGANIZATION AND OPERATIONS OF THE IMF
+32policy measures that are considered necessary to resolve underlying balance
+of payments problems and enable members to repay the IMF within theestablished repurchase period. Phasing also enables the purchasing member
+to demonstrate to other members that its adjustment program is being
+implemented and warrants their continued support.
+The choice between even phasing and uneven phasing depends on the bal-
+ance of payments need and the path of adjustment. These choices are made
+on a case-by-case basis: resources are normally fairly evenly spread over thearrangement period but a concentration of adjustment at the beginning of
+an arrangement could justify front-loading of purchases. The frequency of
+purchases may also be affected by the length of lags in the reporting of datarelating to performance criteria.
+14
+Repurchase Policies
+The repurchase policies of the IMF are intended to ensure the revolving
+character of its resources. All purchases made from the IMF are subject topredetermined repurchase schedules (Table II.2). The length of the repur-
+chase period and the number of repurchase installments differ according to
+the policy or facility under which the credit was extended.
+In the case of most purchases, a borrower is expected to repurchase ear-
+lier than the schedule of repurchase obligations. Such time-based repurchase
+expectations are aimed at securing early repayment from members in a posi-tion to do so, in keeping with a long-standing principle of the IMF that its
+resources should be used only as long as there is a balance of payments need
+(Box II.3). A waiver of early repurchase expectations can be provided bythe Executive Board upon the request of a member, if the member’s exter-
+nal position is not strong enough for the member to pay early without undue
+hardship or risk. In case of a waiver, repurchases would fall due according tothe original obligation schedule.
+Time-based repurchase expectations apply to purchases made after
+November 28, 2000 in the credit tranches and under the CFF and EFF. For
+purchases in the credit tranches and under the CFF, the expectation schedule
+is 1 year in advance of the obligation schedule, beginning 2¼ years after eachpurchase and ending after 4 years. For the EFF, the expectation schedule
+14Specific guidelines on phasing are set out in Selected Decisions and Selected Docu-
+ments of the International Monetary Fund  (Washington). This volume is updated annually
+on June 30. See, for example, the Twenty-Fifth Issue, June 30, 2000.
+Table II.2.  Financial Terms of IMF Credit
+Charges Repurchases
+Base Surcharge Service Commitment Expectation Obligation Installments
+First credit tranche Basic rate None 50 basis points None 2¼-4 years 3¼-5 years 8 quarterly
+Stand-By Arrangement Basic rate 100 basis points for credit 50 basis points 2¼-4 years 3¼-5 years 8 quarterly
+over 200 percent of quota;
+Extended Fund Facility (EFF) Basic rate 200 basis points for credit 50 basis points 4½-7 years 6 semiannual
+over 300 percent of quota
+4½-10 years 12 semiannual
+Supplemental Reserve Facility (SRF) Basic rate 300-500 basis points 50 basis points 25 basis points 1-1½ years 2-2½ years 2 semiannual
+plus 10 basis points
+Initial surcharge rises for amounts in excess
+by 50 basis points  of 100% of quota
+after one year and each
+subsequent six months
+Contingent Credit Line (CCL) Basic rate 150-350 basis points 50 basis points 1-1½ years 2-2½ years 2 semiannual
+Compensatory Financing Facility Basic rate None 50 basis points None 2¼-4 years 3¼-5 years 8 quarterly
+  (CFF)
+Emergency assistance Basic rate None 50 basis points None None 3¼-5 years 8 quarterlyInstrument
+The basic rate of charge  is linked directly to the SDR interest rate by a coefficient that is fixed each 
+financial year. The basic rate of charge therefore fluctuates with the market rate for the SDR, which is 
+calculated on a weekly basis. The basic rate of charge is adjusted upward for burden sharing to 
+compensate for the overdue charges of other members (see Box II.9). The Surcharge on high levels of 
+credit outstanding under the credit tranches and the EFF is designed to discourage large use of IMF 
+resources. The  SRF and CCL surcharges  increase with the time elapsed since the first SRF or CCL 
+purchase, which sharpens the incentive for repurchases ahead of the obligation schedule. The annual 
+commitment fee applies to amounts available under an arrangment during the year. The fee is refunded 
+to the extent that available amounts are purchased.Repurchases are made in equal installments at regular intervals over a fixed 
+period. A member is free to repurchase in advance of maturity and to attribute 
+repurchases to any outstanding obligation to the IMF. The repurchase obligation schedule for each type of credit is generally associated with an accelerated schedule, which members are expected to follow. A member not in a position to meet the expectations schedule can request an extension up to the corresponding period in the obligation schedule.
+33
+FINANCIAL ORGANIZATION AND OPERATIONS OF THE IMF
+34BOX II.3. E VOLUTION  OF IMF P OLICIES  ON REPURCHASES
+Under the original Articles of Agreement, there were no fixed repurchase
+periods for the use of IMF resources: repurchases were calculated annually foreach member according to a formula based on their international reserves.
+This reflected the principle that the IMF’s resources are made available only to
+members with a balance of payments and reserve need, and was designed toensure their revolving character.
+This approach became unworkable over time, however, and was increasingly
+supplemented by policies on repurchase periods. The coexistence of these two
+approaches—one based on explicit schedules and another on reserve
+strength—was codified under the Second Amendment of the Articles in 1978with the establishment of fixed repurchase periods (Article V , Section 7 (c))
+and provision for early repurchase by members as their balance of paymentsand reserve position improves (Article V , Section 7 (b)).
+A major change in the repurchase policies was introduced in 1997 with the
+establishment of the SRF to help members experiencing exceptional balance
+of payments di ff iculties owi ng to a large short- term fi nancing need resulti ngfrom a sudden and disruptive loss of market confidence. In line with the short-term nature of this type of balance of payments need, the SRF incorporatesmuch shorter repurchase periods and features repurchase expectations thatare legally outside of the framework of Article V, Section 7 (b). Repurchases
+under the SRF are expected to be made in two installments after 1 and 1½
+years from the date of the purchase. In order to provide flexibility for caseswhere the member’s return to capital markets takes longer than anticipated,each repurchase can be extended by up to 1 year, upon request by the memberand approval of the request by the Executive Board. The same repurchase pro-file was adopted for the CCL in 1999.
+Repurchase expectations were introduced for purchases in the credit
+tranches and under the EFF and the CFF in November 2000. These time-basedrepurchase expectations (see Table II.2) can be extended upon request by themember, in which case repurchases would fall due according to the originalo b l i g a t i o n  s c h e d u l e .  W a i v e r s  a r e  c o n s i d e r e d  b y  t h e  E x e c u t i v e  B o a r d  i f  t h emember’s external position is not strong enough for the member to pay early
+without undue hardship or risk. Adjustment programs supported by credit
+tranche or EFF resources are generally designed on the basis of the obligationschedule for repurchases, so that in most cases members will be in a position tomeet repurchase expectations only if their external position is stronger thanprojected at the outset of the program. In contrast, adjustment programs sup-ported by SRF and CCL resources are designed on the basis of the expectation
+schedule from repurchases.
+II General Department
+35begins after 4½ years, as with the obligation schedule, but repurchases are
+doubled, so that the expectation schedule ends after 7 years rather than 10years under the obligation schedule. Figure II.3 illustrates the mapping of
+repurchase expectations and the corresponding repurchase obligations.
+A member can request an extension of time-based repurchase expecta-
+tions if its external position is not sufficiently strong. If the IMF agrees to an
+extension, all repurchase expectations during the period covered by the
+extension would revert back to the corresponding repurchase obligations.There is a presumption that this period would be one year, although a longer
+or shorter period could be set. If the IMF does not agree to an extension, the
+member would be expected to make repurchases according to the expecta-tion schedule. Failure to do so would result in a suspension of the right to
+make further purchases, including prospective purchases under an existing
+arrangement. However, the member would not be in arrears until it failed tomeet a repurchase obligation.
+IMF-supported programs are guided by the requirement that the member
+should be able to meet repurchase obligations. In most cases, therefore, mem-bers will be considered to be in a position to meet repurchase expectations
+only if their external position is stronger than had been projected at the time
+of approval of the associated IMF arrangement. Similarly, the evaluation ofmembers’ capacity to repay the IMF is based on the obligation schedule.
+An early repurchase policy serves as a backstop to the standard repur-
+chase provisions. Members with IMF credit outstanding are normally
+expected to make repurchases as their balance of payments and reserve
+position improves.
+15 A member could experience an especially rapid and
+strong turnaround in its balance of payments and reserve position, and maybe in a position to make repurchases earlier than under the fixed schedulesfor time-based repurchase expectations. In addition, there are some pur-chases for which time-based repurchase expectations are not applicable.
+16
+Judgments on the appropriateness of early repurchases in individual casesare made by the Executive Board. The amount of such repurchases expectedduring a given quarter is determined on the basis of a formula that reliesheavily on gross reserves (Box II.4).
+15Article V, Section 7 (b).
+16Time-based repurchase expectations do not apply to purchases made prior to Novem-
+ber 2000 or to purchases under emergency assistance; separate repurchase expectationsapply to purchases under the CCL and SRF.
+FINANCIAL ORGANIZATION AND OPERATIONS OF THE IMF
+36FIGURE  II.3.  E ARLY  REPURCHASE  EXPECTATIONS
+2
+3
+4
+54
+5
+6
+7
+8
+9
+10E1 E1 O1
+O2
+O3
+O4
+O5
+O6O7
+O8
+O9
+O10
+O11
+O12E2
+E3
+E4
+E5
+E6O1
+O2
+O3
+O4
+O5
+O6
+O7
+O8E2
+E3
+E4
+E5
+E6
+E7
+E8Grace
+periodGrace
+periodYears
+After
+Purchase Expectation Obligation Expectation ObligationYears
+After
+PurchaseCredit Tranches/CFF:
+Schedule for a Single Purchase
+(Quarterly repurchases)Extended Fund Facility:
+Schedule for a Single Purchase
+(Semiannual repurchases)
+A member meeting the expectations schedule 
+would meet expectations E1 through E8, which would extinguish obligations O1 through O8.A member meeting the expectations schedule 
+must repurchase obligations O1 through O6, and would meet the contemporaneous expectations E1 through E6, extinguishing obligations O7 through O12.
+II General Department
+37BOX II.4. E ARLY  REPURCHASE  POLICY : MINIMUM
+REPURCHASE  AMOUNTS
+Formula
+Under the guidelines for early repurchase, the minimum amount that a
+member is expected to repurchase each quarter is determined by a formulabased on the member’s gross international reserves:
+• 1.5 percent of latest reserves plus (minus)
+• 5.0 percent of the increase (decrease) in reserves over the previous six
+months.
+For this purpose, the IMF uses the latest data on the member’s gross
+reserves as reported in the IMF’s International Financial Statistics , with gold
+valued at SDR 35 an ounce, available when the associated financial transac-
+tions plan is prepared for Executive Board consideration. The formula thus
+ensures a tight link between reserves and repayments to the IMF, with anyincrease in reserves resulting in larger repurchases and vice versa. The formulais applied anew for every quarter the member is included in the transactionsplan for early repurchases.
+Limits
+The minimum repurchase amount is subject to quantitative limits. This
+amount cannot
+• exceed 4 percent of latest reserves in a quarter,• exceed 10 percent of latest reserves in a year, or• reduce latest reserves below 250 percent of quota.
+These limits are a means to protect members from having to draw too
+heavily on their owned reserves to meet IMF repayments. In the two decadessince the policy was established, early repurchase amounts generated by theformula have always fallen below these limits.
+Credits
+In addition to these limits, the minimum repurchase amount is reduced to
+the extent of any repurchase obligations falling due during the quarter or togive credit for voluntary advance repurchases:
+• in the two quarters prior to the member being included for early repur-
+chase, or
+• subsequent repurchases in excess of minimum repurchase amounts.
+The credits are intended to encourage members to accelerate repurchases
+voluntarily on their own terms.
+FINANCIAL ORGANIZATION AND OPERATIONS OF THE IMF
+38Early repurchase expectations can arise in other contexts. Provisions for
+early repurchase are built into the CFF, Contingent Credit Line (CCL), andSupplemental Reserve Facility (SRF). In addition, a member is required totake corrective action by making an early repurchase in the event that itmakes a purchase under an arrangement that it was not entitled to make bythe terms of the arrangement
+—that is, a noncomplying purchase. The
+requirement of corrective action can be waived if the IMF decides that thecircumstances justify continued use of the purchased resources. A noncom-plying purchase would arise if a member were permitted to make a purchasebecause, on the basis of information available at the time, the IMF was satis-
+fied that the conditions applicable to the purchase under the arrangement
+had been observed but, on the basis of information subsequently available, itbecame evident that the conditions of the arrangement had not actuallybeen met.
+17
+The IMF can change the period of repurchases.18 It has the authority to
+postpone the date for the discharge of a repurchase by a majority of thevotes cast, provided that the postponement does not cause the repurchase toexceed the maximum repurchase period. Postponement beyond the maxi-
+mum period allowed under the arrangement would be considered only in
+the event that the IMF determined that discharge on the due date wouldresult in exceptional hardship for the member and if the longer period forrepurchase is consistent with the revolving nature of the use of IMFresources. Such a decision requires approval by a 70 percent majority of thetotal voting power.
+19
+A member is free to make advance repurchases at any time. At the discre-
+tion of the member, advance repurchases can be attributed to any outstand-
+ing purchases. In this way, a member is free to reduce the IMF’s holdings of
+its currency corresponding to prior purchases and thereby reduce or elimi-nate its obligation to pay interest to the IMF. Repurchases can be made, atthe choice of the repurchasing member, in SDRs or in currencies selected bythe IMF according to the policies and procedures for the use and receipt of
+17See also the discussion in Chapter V on “Measures to Deal with Misreporting.”
+18An 85 percent majority of the total voting power in the IMF is required to change the
+period of repurchase of holdings of currency acquired by the IMF pursuant to its policy onthe use of general resources. A 70 percent majority is required in the case of holdings of
+currency not acquired as a result of purchases and subject to charges under Article V , Sec-
+tion 8 (b)(ii). See Appendix II.
+19No such decision has been taken in the past 25 years.
+II General Department
+39currencies under the quarterly financial transactions plan, as discussed
+below under “Financial Transactions Plan.”20
+Financial Policies and Facilities
+The lending instruments of the IMF have evolved over the years. In its
+early years, IMF lending took place exclusively on the basis of general poli-cies on access in what became known as the credit tranches and, in particu-
+lar, under Stand-By Arrangements. Beginning in the 1960s, special policies
+were developed to deal with various balance of payments problems havingparticular causes, resulting over time in a multiplicity of policies on the use
+of IMF resources.
+21 Special policies on the use of IMF resources outside the
+credit tranches are generally referred to as facilities.
+All decisions on the extension of IMF credit are taken by the Executive
+Board. These decisions are supported by a formal request from the member
+and an assessment by the staff of the nature and magnitude of the balance ofpayments problem, the adequacy of the policy response, and the capacity of
+the member to repay the IMF. In 1995, the IMF specified streamlined proce-
+dures under an Emergency Financing Mechanism to allow for quicker Exec-utive Board approval of IMF financial support. This mechanism is used in
+circumstances representing, or threatening, a crisis in a member’s external
+accounts that requires an immediate response from the IMF, as was the casein 1997 for Indonesia, Korea, the Philippines, and Thailand and in July 1998
+for Russia.
+A fundamental review of IMF financial policies and facilities took place in
+2000, which resulted in a more streamlined structure, with a sharper focus on
+crisis prevention and ensuring effective use of IMF resources. This section
+describes the current structure of policies and facilities; earlier lendinginstruments are noted in Box II.5.
+20Members have the option of combining all repurchases due within a calendar month,
+provided that the combined repurchase is completed not later than the last day of the
+month and that no single repurchase remains outstanding for a period exceeding the maxi-mum permitted under the relevant policy of the IMF.
+21A comprehensive discussion of the evolution of IMF lending instruments is available
+on the web: “Review of Facilities—Preliminary Considerations,” www.imf.org/external/np/pdr/fac/2000/index.htm.
+FINANCIAL ORGANIZATION AND OPERATIONS OF THE IMF
+40Credit Tranche Policies
+From its early history, IMF credit was made available in tranches (seg-
+ments). Members could make purchases in four credit tranches, each equiva-
+lent to 25 percent of quota, within the prevailing annual access limit of 25percent of quota and the cumulative access limit of 100 percent of quota. ABOX II.5. E ARLIER  IMF L ENDING  INSTRUMENTS
+Over the years, the IMF has established a number of policies and facilities to
+meet particular balance of payments needs that were eventually either elimi-
+nated or allowed to lapse:
+•T h e  Buffer Stock Financing Facility , created in 1969 and eliminated in
+2000, provided financing to members to help finance their contributions toapproved commodity price stabilization funds.
+•T h e  f i r s t  Oil Facility  was created in June 1974 in response to the oil price
+shock, and lapsed in December 1974. A second  Oil Facility  was created in April
+1975 to provide additional financing, and lapsed in March 1976.
+• A policy of support for debt and debt-service operations , initiated in 1989,
+was a key element of the IMF’s response to the debt crisis. The policy proveduseful in facilitating commercial bank debt reduction but, by the late 1990s, had
+outlived its usefulness and was discontinued in 2000.
+•A n  oil import element  was added to the Compensatory Financing Facility
+(CFF) in November 1990, when oil prices rose sharply during the Middle East
+conflict. It was allowed to lapse at end-1991.
+•T h e  Systemic Transformation Facility , created in April 1993 and allowed to
+lapse in April 1995, provided support for the early stages of transition from
+centrally planned to market economies, in relatively small amounts and with
+relatively low conditionality.
+• The policy on currency stabilization funds  w a s  e s t a b l i s h e d  i n  1 9 9 5  a s  a
+means of providing additional, precautionary support under IMF arrange-
+ments during the early stage of an exchange rate–based stabilization program.No member made use of the policy, and it was discontinued in 2000.
+•A  contingency element  was added to the CFF in 1988. Until its elimination
+in 2000, this instrument provided additional access under arrangements,according to prespecified calculations, in the event of unanticipated adverse
+current account developments.
+•T h e  Y2K Facility  was created in September 1999 to deal with possible
+strains resulting from the Millennium (Y2K) computer dating problem. It was
+not used, and lapsed in March 2000.
+II General Department
+41purchase in the first credit tranche raises the use of IMF credit to no more
+than 25 percent of quota. The three subsequent tranches are known as the
+upper credit tranches. Over time, access to IMF credit substantially above100 percent of quota under the credit tranches has been permitted; accord-ingly, the upper credit tranches now refer more generally to any use of IMF
+credit beyond the first credit tranche. Resources drawn in the credit tranches
+can be used to meet any balance of payments need.
+The segmentation in terms of first and upper credit tranches underscores
+the basic principle that the IMF requires stronger justification in terms ofpolicy understandings from the member at higher levels of IMF credit out-standing. Conditionality is the mechanism that gives the IMF the needed
+assurances. The IMF adopts a more liberal attitude in making resources
+available in the first credit tranche than in the upper credit tranches, pro-vided that the member is making reasonable efforts to solve its balance ofpayments problems. Requests for use of IMF resources beyond the first
+credit tranche require substantial justification for the expectation that the
+member’s balance of payments difficulties will be resolved within a reason-able period of time.
+Access to the upper credit tranches is normally made under Stand-By
+Arrangements. These are lines of credit from the IMF under which a “mem-ber is assured that it will be able to make purchases from the General
+Resources Account in accordance with the terms of the decision during a
+specified period and up to a specified amount.”
+22 Stand-By Arrangements
+have long been the core lending instrument of the institution. They were ini-tially intended as precautionary instruments, to be drawn on only if pay-
+ments difficulties emerged, but have been used more commonly as a source
+of external financing. Stand-By Arrangements that are treated by membersas precautionary, either at the outset of the arrangement or after immediate
+financing constraints have eased, have again emerged following the opening
+of world capital markets.
+Stand-By Arrangements typically cover a period of 1–1½ years but can be
+longer, up to a maximum of 3 years. Performance criteria, the phasing of pur-chases, and program reviews apply to the use of IMF resources in the uppercredit tranches, but not in the first credit tranche, even under a Stand-By
+Arrangement.
+23 Repurchases are expected each quarter 2¼–4 years after
+22Article XXX (b).
+23Outright purchases without IMF arrangements can take place, but are rare.
+FINANCIAL ORGANIZATION AND OPERATIONS OF THE IMF
+42each purchase, but these expectations can be extended to a maximum repur-
+chase period of 3¼–5 years. In addition to the charges for the use of IMF
+credit, members pay a commitment fee for Stand-By Arrangements, which is
+refunded to the extent that amounts under the arrangement are purchased(Table II.2 summarizes the terms of IMF credit under the various policiesand facilities).
+Extended Fund Facility
+The Extended Fund Facility (EFF) was established in 1974 as a vehicle for
+longer-term external financing for members undertaking needed structuraleconomic reforms. The EFF is designed for economies:
+• suffering serious payments imbalances relating to structural maladjust-
+ments in production and trade and where price and cost distortionshave been widespread, or
+• characterized by slow growth and an inherently weak balance of pay-
+ments position, which prevent pursuit of an active development policy.
+The EFF is especially appropriate for members graduating from the Pov-
+erty Reduction and Growth Facility (PRGF) programs or transition econo-mies that lack adequate capital market access. At the same time, the EFFand all other IMF facilities are available in principle to any member that
+meets the eligibility criteria.
+Members drawing under the EFF do so in the context of an Extended
+Arrangement. These are three-year IMF arrangements, which can be
+extended for a fourth year. Performance criteria and purchases typically fol-
+low a semiannual schedule. Repurchases are also made semiannually, andover a longer period than applies to the credit tranches: repurchases areexpected 4½–7 years after each purchase but this can be extended to themaximum repurchase period of 4½–10 years. Members pay a refundable
+commitment fee for Extended Arrangements, as well as the applicable
+charges for the use of IMF credit.
+Supplemental Reserve Facility
+The Supplemental Reserve Facility (SRF) was established at the end of
+1997, at the height of the Asian financial crisis. Its purpose is to provide
+financial assistance to members experiencing exceptional balance of pay-ments difficulties due to a large, short-term financing need following a sud-den and disruptive loss of confidence reflected in pressure on the capitalaccount and the member’s foreign reserves. Access under the SRF is separate
+II General Department
+43from the limits that apply to the credit tranches and the EFF, and it has no
+explicit limits of its own. SRF resources are provided under Stand-By or
+Extended Arrangements. The conditionality in an arrangement involvingSRF resources is that of the associated Stand-By or Extended Arrangement.
+The repurchase period for SRF resources is much shorter than that gov-
+erning the credit tranches and EFF, reflecting the likelihood of a quickerturnaround in the balance of payments. Repurchases are made in twoinstallments and are expected 1–1½ years after each purchase; this period
+can be extended up to the maximum repurchase period of 2–2½ years.Resources drawn under the SRF are subject to the basic rate of chargeapplying to all IMF credit and a specific surcharge. During the first yearfrom the date of the first purchase under the facility, the SRF surcharge is setat 300 basis points, and it rises by 50 basis points at the end of the first yearand every six months thereafter, up to a maximum of 500 basis points. Thestandard commitment fee for Stand-By Arrangements applies.
+Contingent Credit Lines
+The Contingent Credit Line (CCL) is a new type of lending instrument for
+the IMF. Conceived in the midst of a series of severe financial crises involv-
+ing large-scale use of IMF resources by a number of members, the CCL wasestablished by the IMF in 1999 as a means of preventing the spread of capi-tal account–driven crises. The CCL is intended to provide members main-
+taining strong policies with a precautionary line of defense against balanceof payments problems arising from international financial contagion.Although it draws on IMF experience over several decades, the CCL has anumber of novel features that set it apart from other IMF lending instru-ments, notably an element of pre-qualification and automaticity in usingIMF resources.
+The CCL is subject to demanding eligibility requirements:
+• the absence of an immediate need to use IMF resources at the time of
+approval;
+• a positive assessment of policies by the IMF, taking into account the
+member’s adherence to internationally accepted standards (especiallythe IMF’s Special Data Dissemination Standard or SDDS);
+• constructive relations with private creditors, with a view to facilitating
+appropriate involvement of the private sector, and satisfactory manage-ment of external vulnerability; and
+FINANCIAL ORGANIZATION AND OPERATIONS OF THE IMF
+44• a satisfactory economic and financial program, which the member
+stands ready to adjust as needed.
+As with the SRF, CCL resources are provided under Stand-By Arrange-
+ments, in combination with credit tranche resources. Access to CCL resources
+is expected to be in the range of 300–500 percent of quota, and does not count
+toward the access limits for the credit tranches and the EFF.
+Upon approval of an arrangement with CCL resources, a small amount is
+made available but is not expected to be purchased. If a crisis strikes, the
+member may request the completion of an activation review, at which the
+Executive Board would ascertain that the member is affected by a crisis
+stemming from contagion and that the member’s own policies had not been
+a significant cause of the pressures in its balance of payments. There is a pre-
+sumption that one-third of the amount committed under the CCL would be
+released at this time. The phasing and conditionality for the remaining CCL
+resources would be specified in a post-activation review concluded shortly
+after or together with the activation review; conditionality would be
+expected to cover macroeconomic rather than structural policies, given thenature of the balance of payments difficulties.
+The financial terms for CCL resources are identical to those governing
+SRF resources, except that the surcharge on CCL resources over the basic
+rate of charge is 150 basis points lower: the CCL surcharge is 150 basis
+points initially, rising by 50 basis points one year after the first purchase and
+every six months thereafter, up to a maximum surcharge of 350 basis points.
+The commitment fee for the CCL is the same as for the SRF.
+Compensatory Financing Facility
+The CFF was the first facility aimed at helping members deal with special
+balance of payments problems. It was established in the 1960s to ensure
+timely external financing for members experiencing balance of payments
+difficulties resulting from a temporary decline in export earnings. A cereal
+import element was added in 1981; two other elements introduced since the
+establishment of the CFF have been removed (see Box II.5). In addition to
+having a balance of payments need related to export shortfalls or excess
+cereal import costs, the eligibility requirements include the following:
+• the export shortfall or excess cereal import cost are of a short-term
+character;
+• the shortfall or excess must be largely attributable to factors beyond the
+member’s control; and
+II General Department
+45• if the member has balance of payments difficulties beyond the effect of
+the shortfall or excess, it must have a new or existing arrangement inplace at the time of the request for a CFF purchase.
+Access under the CFF is subject to its own limits, and does not count
+toward the access limits under the credit tranches and the EFF. The CFFaccess limits range from 45 percent of quota for each of the export shortfall
+and excess cereal import costs elements to a combined limit of 55 percent of
+quota. Within these limits, actual access is determined by the size of theshortfall or excess, and may be limited by concerns about the member’s abil-
+ity to repay the IMF. Access under the CFF counts toward the threshold for
+upper credit tranche conditionality
+—that is, the CFF does not “float” as
+regards conditionality.24
+Under certain circumstances, purchases under the CFF may be phased,
+with purchases subsequent to the initial purchase being conditioned on themember’s having an IMF arrangement in place and meeting all the condi-
+tions for a purchase or disbursement under that arrangement. They are sub-
+ject to the same terms as credit tranche resources with respect to charges,repurchase expectations, and repurchase obligations; CFF purchases do not
+carry a surcharge, however, and do not count toward the calculation of sur-
+charges applying to IMF credit outstanding in excess of 200 percent ofquota.
+In addition to the time-based early repurchase expectations, the CFF
+incorporates additional specific early repurchase provisions. If a membermakes a purchase on the basis of estimated data for the shortfall in export
+earnings or excess in cereal import costs, and if the actual data, once they are
+available, indicate that the purchase exceeded the amount that would havebeen available had actual data been used, the member is expected to repur-
+chase promptly an amount equivalent to the difference.
+Emergency Assistance
+The IMF has a long-standing policy of providing financial assistance to
+members experiencing emergencies. The conditionality associated with IMF
+lending for this purpose is similar to that required for purchases in the first
+24In practice, this means that a member with 25 percent of quota or more of credit out-
+standing under the CFF cannot access the credit tranches with first credit tranche (lower)conditionality.
+FINANCIAL ORGANIZATION AND OPERATIONS OF THE IMF
+46credit tranche. Two basic types of emergencies are covered by this policy:
+natural disasters, such as earthquakes, floods, or hurricanes; and post-
+conflict situations, following social disruptions.
+Emergency assistance for natural disasters is available where the member
+cannot meet its immediate financing needs arising from a natural disaster
+without serious depletion of its foreign reserves. If this exigency were not
+present, however, IMF assistance for these members could be provided
+under the CFF or a Stand-By or an Extended Arrangement. The policy con-
+ditions include a statement of the general policies the member intends to
+pursue, and some assurance that the member will cooperate with the IMF in
+an effort to find, where appropriate, solutions for its balance of payments
+difficulties.
+In post-conflict situations, emergency assistance can be made available
+where there is an urgent balance of payments need and a role for the IMF in
+catalyzing support from others, but where the institutional and administra-
+tive capacity of the member has been disrupted as a result of social conflict,
+so that the member is not yet able to develop and implement a comprehen-
+sive economic program that could be supported by an IMF arrangement. In
+these circumstances, there must nevertheless be sufficient capacity for plan-
+ning and policy implementation and a demonstrated commitment by the
+authorities. Support from the IMF in these cases must be part of a concerted
+international effort to address the aftermath of the conflict situation in a
+comprehensive way.
+IMF assistance in emergency situations was initially provided through the
+flexible application of policies on the use of the credit tranches, but since 2000
+has been subject to a special policy outside the credit tranches. Access is nor-
+mally limited to 25 percent of quota. Larger amounts can be made available
+on an exceptional basis: a further 25 percent of quota can be provided in post-
+conflict situations where progress on capacity rebuilding has been slow andthe member is not in a position to move to an IMF arrangement after one year
+but where there is sufficient evidence of the authorities’ commitment to
+reform and capacity to implement policies; tranching of disbursements may be
+appropriate in these cases. Purchases under emergency assistance are subject
+to the basic rate of charge and a maximum repurchase period of 3¼–5 years,
+but are not subject to time-based repurchase expectations and do not count
+toward the calculation of the surcharge on IMF credit in excess of 200 percent
+of quota. The IMF has set up a special administered account with the purpose
+of providing PRGF-eligible countries with post-conflict emergency assistance
+II General Department
+47at the concessional rate of interest of ½ of 1 percent a year (see Appendix III.)
+To achieve this objective, adequate donor resources will need to be mobilized.
+The amounts of IMF credit outstanding by facility during 1990–2000 are
+shown in Figure II.4.
+Currency Holdings
+In the balance sheet of the GRA, the IMF distinguishes between usable
+currencies and other currencies. Usable currencies comprise the currencies
+of those member countries that have a sufficiently strong balance of pay-ments and reserve positions for their currencies to be used to provide creditto other members. These currency holdings represent the bulk of resources
+available to meet the future demand for IMF credit. Other currencies
+include the currencies of members with weaker external positions that arenot being used for credit purposes, although they could become usable if themembers’ balance of payments positions improved, and the currencies of
+borrowers.
+Valuation of Currencies
+Currencies and securities held in the GRA’s pool of resources are valued
+in terms of the SDR on the basis of each member’s representative rate of
+exchange. Each member is obligated to maintain, in SDR terms, the value ofthe balances of the IMF’s holdings of its currency in the GRA, but not thoseheld elsewhere by the IMF, such as in the SDA or the Administered
+Accounts.
+25 The total SDR value of the IMF’s holdings of currencies in the
+GRA is kept constant through changes to the amount of members’ currencybalances. A member has to pay in additional currency if its currency depreci-ates against the SDR, and the IMF will refund some of these currency hold-ings if the currency appreciates. This requirement is referred to as the
+maintenance-of-value obligation. Because of this obligation the IMF’s
+resources are insulated from exchange rate fluctuations.
+A member’s currency held by the IMF is revalued in SDR terms whenever:
+• the currency is used by the IMF in a transaction with another member,
+• at the end of the IMF’s financial year (April 30),
+25Revaluation changes in members’ currencies in relation to the SDR in the other IMF
+accounts (the SDA and the Administered Accounts) are reported as valuation gains andlosses for those accounts.
+FINANCIAL ORGANIZATION AND OPERATIONS OF THE IMF
+48 FIGURE  II.4.  O UTSTANDING IMF C REDIT BY FACILITY, FINANCIAL YEARS ENDED APRIL 30, 1990–2001
+(In billions of SDRs)
+010203040506070Systemic Transformation Facility1
+Compensatory Financing Facility        
+Supplemental Reserve Facility
+Extended Fund FacilityStand-By Arrangements
+2
+2001 2000 1999 1998 1997 1996 1995 1994 1993 1992 1991 1990
+1Credit extended under the 1993–95 Systemic Transformation Facility will not be fully repaid until 2005.
+2Includes a small amount under the credit tranches and emergency assistance. 
+II General Department
+49• at the request of a member during the year, for example, at the end of
+the member’s financial year; and
+• on such other occasions as the IMF may decide.
+Whenever it becomes necessary to adjust the rate at which the IMF has
+recorded the use of a member’s currency, the new rate becomes effective inthe IMF’s accounts at the close of business on the date that the newexchange rate is determined. All holdings of a member’s currency in the
+GRA, including any unsettled obligations resulting from an earlier revalua-tion, are revalued at the new rate. The new rate is applied to all transactionsin that currency, including administrative receipts and payments, until such atime as the rate may again need to be adjusted.
+The currency valuation adjustments are part of the IMF’s holdings of
+members’ currencies. Whenever the IMF revalues its holdings of a member’s
+currency, reflecting a change in its exchange rate with the SDR, an accountreceivable or an account payable is established for the amount of currencypayable by or to the member in order to maintain the value of holdings ofthe member’s currency in terms of the SDR.
+SDR Holdings
+The IMF does not receive allocations of SDRs, but obtains its SDRs as
+payment of the reserve asset portion of quota subscriptions and in settle-
+ment of charges and, to a lesser degree, repayment of credit. The IMF, in
+turn, uses these SDRs to pay interest on creditor positions and to providecredit to members. Since SDRs were created as a supplement to existing
+reserve assets, the IMF does not maintain large holdings of SDRs for long
+periods of time, but rather recirculates the SDRs it receives back to themembership. The SDR system, and the key role of the GRA in the circula-
+tion of SDRs, is discussed in Chapter III.
+Gold Holdings
+The IMF holds 103 million fine (troy) ounces (3,217 metric tons) of gold at
+designated official depositories, making it the third largest official holder of
+gold after the United States and Germany. IMF holdings account for about
+10 percent of total official gold stocks. The IMF acquired its gold in variousways (Box II.6). The IMF’s gold holdings are valued on its balance sheet on
+the basis of historical cost, with a book value of SDR 5.9 billion. Valued at
+end-April 2001 market prices, the IMF’s holdings amount to over SDR 21billion (about $27 billion).
+FINANCIAL ORGANIZATION AND OPERATIONS OF THE IMF
+50BOX II.6. S OURCES  AND  USES OF THE IMF’ S GOLD
+The IMF acquired virtually all its gold holdings through four main types of
+transactions under the pre-Second Amendment (1978) Articles of Agreement.
+•Subscriptions . The original Articles of Agreement prescribed that 25 per-
+cent of initial subscriptions and quota increases was normally to be paid ingold. This represented the largest source of the IMF’s gold.
+•Payment of charges . Originally, all charges, or interest, on members’ out-
+standing use of IMF credit were normally payable in gold.
+•Repurchases . Members could use gold to repay the IMF for credit previ-
+ously extended.
+•Purchases . A member wishing to obtain the currency of another member
+could acquire it by selling gold to the IMF. The major use of this provision wassales of gold to the IMF by South Africa in 1970–71.
+Outf lows of  gold f rom the IMF’ s hol di ngs occurred under the pre-Second
+Amendment (1978) Articles of Agreement through sales of gold for currency,and via payment of remuneration and interest. Sales of gold for currency wereas follows:
+•Sales for replenishment (1957–70) . In the late 1950s and in the 1960s, the
+IMF sold gold on several occasions to replenish its holdings of currencies.
+•South African gold and mitigation . In the early 1970s, the IMF sold gold to
+members in amounts roughly corresponding to the amounts purchased earlierfrom South Africa; it also sold gold in connection with payments of gold forquota increases by some members, in order to mitigate the impact of these pay-ments on the gold holdings of reserve centers.
+•Investment in U.S. Government securities (1956–72) . In order to generate
+income to offset operational deficits, some gold was sold to the United Statesand the proceeds invested in U.S. Government securities. A significant buildupof reserves through income from charges prompted the IMF to reacquire thisgold from the U.S. Government in the early 1970s.
+•Auctions and “restitution” sales (1976–80) . The IMF sold approximately
+one-third (50 million ounces) of its then-existing gold holdings following anagreement by its members to reduce the role of gold in the international mon-etary system. Half of this amount was sold in restitution to members at thethen-official price of SDR 35 an ounce; the other half was auctioned to themarket to finance the Trust Fund, which supported concessional lending by theIMF to low-income countries.
+Since 1980, the IMF has had few transactions in gold. A very small amount of
+gold was received from Cambodia in 1992 in discharge of its overdue obligations.In 1993, the IMF pledged to sell up to 3 million ounces of gold if the resources ofthe PRGF Trust Reserve Account were insufficient to cover repayments toPRGF creditors resulting from loans made to encash rights under the rightsaccumulation approach. Finally, during 1999–2000, the IMF conducted a seriesof off-market transactions in gold that left its gold holdings unchanged, in orderto generate resources to help finance its participation in the HIPC Initiative.
+II General Department
+51Gold in the Articles of Agreement
+Before the Second Amendment of the Articles in April 1978, the role of
+gold in the IMF and in the international monetary system was central andpervasive. The Second Amendment contained a number of provisions that,in combination, were intended to achieve a gradual reduction of the role ofgold in the international monetary system and in the IMF. The Second
+Amendment:
+• eliminated the use of gold as the common denominator of the par value
+system and as the basis of the value of the SDR;
+• abolished the official price of gold and abolished the obligatory uses of
+gold in transactions between the IMF and its members;
+• required the IMF, in its dealings in gold, to avoid managing its price or
+establishing a fixed price of gold; and
+• included an undertaking by members to collaborate with the IMF and
+other members with respect to reserve assets to promote better interna-tional surveillance of international liquidity.
+The Articles now limit the use of gold in the IMF’s transactions. Any
+transactions in gold by the IMF require a decision by an 85 percent majority
+of the total voting power in the IMF. The IMF:
+• may sell gold outright on the basis of prevailing market prices;• may accept gold in the discharge of a member’s obligations to the IMF
+at an agreed price on the basis of prices in the market at the time of
+acceptance;
+• does not have the authority to engage in any other gold transactions,
+for example, loans, leases, swaps, or use of gold as collateral; and
+• does not have the authority to buy gold.
+The IMF’s Policy on Gold
+The IMF’s policies on gold are governed by the following five principles:
+• As an undervalued asset held by the IMF, gold provides fundamental
+strength to its balance sheet. Any mobilization of IMF gold should
+avoid weakening its overall financial position.
+• Gold holdings provide the IMF with operational maneuverability both
+as regards the use of its resources and through adding credibility to its
+precautionary balances. In these respects, the benefits of the IMF’s gold
+holdings are passed on to the membership at large, including both cred-
+itors and debtors.
+FINANCIAL ORGANIZATION AND OPERATIONS OF THE IMF
+52• The IMF should continue to hold a relatively large amount of gold
+among its assets, not only for prudential reasons, but also to meetunforeseen contingencies.
+• The IMF has a systemic responsibility to avoid causing disruptions to
+the functioning of the gold market.
+• Profits from any gold sales should be retained in an investment fund,
+and only the investment income should be used for any purposes thatmay be agreed upon by the IMF members.
+The IMF’s Gold Since 1980
+Uses of the IMF’s gold have occurred on two occasions since 1980 without
+changing the IMF’s long-term holdings of gold. As was the case with the
+open-market auctions of gold in 1976–80, these uses of gold were for thebenefit of the poorest members of the IMF. Toward this end, the IMFpledged gold in 1993 and decided in 1999 to conduct off-market transactionsof gold.
+Gold Pledge
+To reassure creditors to the Enhanced Structural Adjustment Facility
+(ESAF) that they would be repaid for ESAF (now PRGF) loans made toencash rights under the “rights accumulation approach,” it was agreed, if
+necessary, to mobilize some of the IMF’s gold. For this purpose, in 1993 the
+IMF decided
+—with the required 85 percent majority of the total voting
+power —to sell up to 3 million ounces of gold if it were determined that the
+resources in the PRGF Trust Reserve Account (plus other available meansof financing) were insufficient to meet payments to be made from that
+account to PRGF creditors. The shortfall would be covered by gold sales to
+the extent of previous drawings on the Reserve Account attributable tooverdue repayments by borrowers of loans for the encashment of rights, plusthe interest earnings forgone on such drawings.
+It is difficult to assess the likelihood that the gold pledge for rights encash-
+ments under PRGF arrangements would be drawn on in the future, mainlybecause of uncertainty about future borrowings under the rights approach.Sierra Leone and Zambia still have loans outstanding to the PRGF Trustunder the rights approach, but these loans are rapidly diminishing either
+because they are coming close to maturity or because they are covered under
+the enhanced HIPC Initiative. It is, therefore, highly unlikely that the gold
+II General Department
+53pledge would be activated in connection with these loans. Moreover, the
+gold pledge could not be called upon until after the resources of the ReserveAccount of the PRGF Trust were exhausted.
+26 Nevertheless, three coun-
+tries—Liberia, Somalia, and Sudan —remain eligible for the rights
+approach and could conceivably borrow sizable sums from the PRGF in con-nection with rights encashments at some time in the future, provided the
+Executive Board continues to extend the availability of the rights approach.
+Whether these countries will follow the rights approach to arrears clearanceis uncertain. In any case, the earliest rights encashments could not take place
+for a few years and repayment of those PRGF loans would only commence
+five and half years after such disbursements.
+Off-Market Transactions in Gold
+To help finance its contribution to the HIPC Initiative, the IMF in 1999–
+2000 conducted a series of off-market transactions in gold. During December1999–April 2000, the IMF sold a total of 12.944 million fine ounces of gold toBrazil and Mexico at the prevailing market price on the day of each transac-tion. The total amount sold was equivalent to SDR 2.7 billion ($3.7 billion).After each sale, the gold was immediately accepted back by the IMF at thesame price in settlement of financial obligations of these members to theIMF. The net effect of these transactions left the IMF’s holdings of physical
+gold unchanged, but the gold accepted back was included in the IMF’s bal-ance sheet at the market price of the transactions, instead of at the originalprice of SDR 35 a fine ounce.
+In accordance with the Articles, the equivalent of SDR 35 a fine ounce
+from the proceeds of the sales was retained in the GRA. The proceeds inexcess of this amount (totaling SDR 2.2 billion, or about $2.9 billion) areheld in the SDA and invested. The income from these investments, whichwill be transferred to the PRGF-HIPC Trust when needed, will be used tohelp finance the IMF’s contribution to the HIPC Initiative. In this context,the Board of Governors of the IMF adopted a resolution in September 1999stating that the off-market gold transactions would “be a one-time operationof a highly exceptional nature.”
+These gold transactions affected the IMF’s balance sheet and income as
+follows:
+26The Reserve Account of the PRGF Trust is discussed in Chapter IV.
+FINANCIAL ORGANIZATION AND OPERATIONS OF THE IMF
+54• The IMF’s holdings of usable currencies in the GRA were lower, and
+reserve tranche positions higher, than they would otherwise have beenby the amount of profit (SDR 2.2 billion). This is because Brazil andMexico paid in gold instead of usable currencies, which would havebeen used to reduce reserve tranche positions of creditor members.
+• The IMF’s net income is affected by the remuneration expense on the
+continuing enlarged reserve tranche positions. The additional remuner-ation expense varies with the rate of remuneration, and amounted to anestimated SDR 94 million in FY2001. For comparison, the IMF’s netincome target for FY2001, the first year in which the full income effectof the off-market gold transactions was felt, was SDR 48 million, andfor FY2002 net income is targeted at SDR 51 million.
+While the transactions were successful in that they allowed the IMF to
+contribute to the resolution of the debt problems of the HIPCs, theyresulted in an increase in the IMF’s cost of operations. Since, under standardprocedures (see the discussion of “Operational Income” below), this rela-
+tively large increase in cost would have resulted in a higher rate of charge,the cost increase was mitigated or offset through the existing burden-sharingmechanism and placed in the SCA-1. In the same way, SDR 94 million isbeing generated in FY2002.
+Quotas
+Each member of the IMF is assigned a quota and pays a capital subscrip-
+tion to the IMF that is equal to its quota. As noted earlier, a quarter of a
+member’s quota subscription is normally paid in reserve assets, with theremainder paid in the member’s own currency.
+27 Quotas are expressed in
+SDRs and their size is determined by the IMF’s Board of Governors,broadly on the basis of the economic size of the country, and taking intoaccount quotas of similar countries. To help in this determination, five for-
+mulas are used that relate the quota to the size of the country’s GDP , current
+account transactions, and official reserves. As of April 30, 2001, total quotas
+27The IMF has made arrangements to assist members with insufficient reserves to pay
+the reserve asset portion of their quota subscription payment through a same-day, no-costIMF lending operation (see Chapter III, Box III.4).The Resource and Liability Side
+II General Department
+55of all members amounted to SDR 212.4 billion. A list of members and their
+quotas is provided in Appendix I.
+Members’ quotas constitute the financial base of the IMF and determine
+its size, as well as serve other functions as determined by the IMF’s Articles.
+• Quotas provide the vast bulk of reserve assets that can be used in the
+provision of foreign reserves by the IMF, despite the availability of bor-
+rowed resources and the growing role of administered resources to pro-
+vide concessional assistance to the IMF’s poorest members.
+• Quotas determine the distribution of voting power in the IMF.28 Quo-
+tas determine members’ financial relationships with the IMF and,through the effect on voting power, members’ roles in IMF decision-
+making and representation on the Executive Board. Many decisions are
+taken by a simple majority vote, though special voting majorities are
+required for some important financial decisions (Appendix II).
+• Quotas continue to play a crucial role in determining the demand for
+IMF resources. Quotas serve as the basis for access to such resources in
+the great majority of IMF-supported programs, subject to limits set by theArticles and the Executive Board.
+29 Over the years, however, the rela-
+tionship between quotas and access has become more elastic, especially
+as the demand for IMF resources has become more unpredictable
+because of the increased role of capital flows in balance of payments dise-
+quilibria. Waivers of the Articles’ limits on access to IMF resources havebeen granted where necessary to allow access in line with operational
+requirements.
+• Quotas also determine a member’s share in a general allocation of
+SDRs.
+30
+The initial quotas of the original members of the IMF were determined at
+the Bretton Woods conference in 1944 (Schedule A of the IMF Articles);
+those of subsequent members have been determined by the IMF’s Board of
+28A member’s voting power is equal to 250 basic votes plus one additional vote for each
+SDR 100,000 in quota. Basic votes therefore help to strengthen the relative voting power
+of members with smaller quotas. 
+29While the IMF’s holdings of a member’s currency, which measure its access to IMF
+credit, are restricted to no more than 200 percent of quota under the Articles (Article V ,
+Section 3 (b)(iii)), this limit—which amounts to IMF credit of 100 percent of quota—is rou-
+tinely waived. See the discussion of “Access Policy” above.
+30Article XVIII, Section 2 (b).
+FINANCIAL ORGANIZATION AND OPERATIONS OF THE IMF
+56Governors, based on principles consistent with those applied to existing
+members. The IMF has adjusted quotas within the context of five-yearly
+general reviews and on an ad hoc basis outside of general reviews. An
+85 percent majority of voting power is needed to change quotas.
+The determination of the quota of a new member of the IMF is based on
+the principle that a member’s quota should be in the same range as the quo-
+tas of existing members of comparable economic size and characteristics.Operationally, this principle has been applied through the use of quota for-
+mulas. Since the IMF’s inception, the calculated quotas derived from the
+quota formulas have been used to help guide decisions regarding the sizeand distribution of members’ actual quotas.
+Quota formulas have evolved over time starting from the formula
+—contain-
+ing national income, official reserves, imports, export variability, and the ratio ofexports to national income
+—that was devised at Bretton Woods in 1944 to give
+support to the broad configuration of initial quotas that was being negotiated.
+A multiformula approach was adopted in the early 1960s, when the Bret-
+ton Woods formula was revised and supplemented by four other formulas
+containing the same basic variables but with larger weights for external
+trade and export variability. The Bretton Woods formula, with its relativelyhigh weight for national income, has generally favored large economies,
+while the additional four formulas have tended to produce higher quotas
+than the Bretton Woods formula for smaller, more open economies. The fiveformulas, which are listed in Box II.7, were last modified in 1982–83.
+General Reviews
+The IMF conducts general reviews of all members’ quotas normally at five
+year intervals.31 Such reviews allow the IMF to assess the adequacy of quo-
+tas in terms of members’ needs for conditional liquidity and the IMF’s abil-
+ity to finance those needs. A general review also allows for adjustments ofmembers’ quotas to reflect changes in their relative positions in the world
+economy. Of the general reviews conducted to date, only one (in 1958/59)
+was outside the five-year cycle.
+T h e  ma i n  i s s u e s  a d d r e s s e d  i n  g e n e r a l  q u o t a  r e v i e w s  a r e  t h e  s i z e  o f  a n
+overall increase in quotas and the distribution of the increase among the
+31Article III, Section 2 (a).
+II General Department
+57BOX II.7. T HE PRESENT  FIVE QUOTA  FORMULAS
+The present five quota formulas, with the Bretton Woods formula listed
+first, are:
+CQ = (0.01 Y + 0.025 R + 0.05 P + 0.2276 VC)(1 + C/Y),
+CQ = (0.0065 Y + 0.0205125 R + 0.078P + 0.4052 VC)(1 + C/Y),
+CQ = (0.0045 Y + 0.03896768 R + 0.07 P + 0.76976 VC)(1 + C/Y),
+CQ = 0.005 Y + 0.042280464 R + 0.044 ( P + C) + 0.8352 VC,
+CQ = 0.0045 Y + 0.05281008 R + 0.039 ( P + C) + 1.0432 VC,
+where CQ = calculated quota;
+ Y = GDP at current market prices for a recent year;
+ R = twelve-month average of gold and foreign exchange
+reserves, including SDR holdings and reserve positions
+in the IMF, for a recent year;
+ P = annual average of current payments (goods, services,
+income, and private transfers) for a recentfive-year period;
+ C = annual average of current receipts (goods, services,
+income, and private transfers) for a recent five-yearperiod; and
+ VC = variability of current receipts, defined as one standard
+deviation from the five-year moving average centeredon the third year, for a recent 13-year period.
+For each of the four non–Bretton Woods formulas, quota calculations are
+multiplied by an adjustment factor so that the sum of the calculations acrossmembers equals that derived from the Bretton Woods formula. The calcu-lated quota of a member is the higher of the Bretton Woods calculation orthe average of the lowest two of the remaining four calculations (afteradjustment).
+FINANCIAL ORGANIZATION AND OPERATIONS OF THE IMF
+58members. Four reviews concluded that no increase in quotas was needed. In
+the other eight reviews, the overall quota increase ranged from 31 percent to61 percent (Tables II.3 and II.4).
+Increases in members’ quotas during general reviews typically consist of
+two elements: (1) an equiproportional element which is distributed to all
+members according to their existing quota shares; and (2) a selective ele-
+ment which is distributed to either all members or a subset of members. Theselective element is used to attain a change in quota shares among members.For any overall increase in quotas, the larger the selective increase, thegreater the redistribution of quota shares. In practice, the selective compo-nent has tended to be relatively small.
+Both the list of members eligible for a selective increase and the way of dis-
+tributing the selective element are based on the Executive Board’s judgment.
+The distribution of selective quota increases have generally been based oncalculated quotas.
+32 Calculated quotas are determined by the quota formulas,
+which have been designed to provide a quantified measure of a country’s rela-tive economic position.
+33 The following examples illustrate the methods used.
+• During the Sixth Review in 1976, the Executive Board decided to dou-
+ble the quota share of the major oil exporters with the stipulation thatthe collective share of all the developing countries should not fall. Thedecision was based on the judgment that such a reallocation wouldstrengthen the IMF’s liquidity. In this instance, the quota formulasplayed no role in identifying the members eligible for the selective
+increase.
+• Under the Eleventh Review in 1998, 25 percent of the quota increase
+was selective. The quota formulas helped determine each member’sshare of the selective increase as follows: (1) 15 percent of the totalincrease (three-fifths of the selective element) was distributed to allmembers; (2) in addition, 10 percent of the total increase was distributed
+32Since the Eighth Review in 1982/83, all members have received an increase comprised
+of an equiproportional element and a selective element that reflected a member’s share incalculated quotas.
+33As further explained below, formulas are one element in determining actual quotas. While
+quota formulas are not mentioned in the Articles, and the Executive Board has not formally
+adopted any formula, the Board has usually relied on them as an independent measure ofmembers’ relative economic position in the world economy. Typically, the quota resulting from
+the formulas—the calculated quota—is different from the actual quota of a member and, in
+the most recent review, actual quotas were on average less than half of calculated quotas.
+II General Department
+59TABLE  II.3. G ENERAL  REVIEWS  OF IMF Q UOTAS
+(In percent)
+Board of Governors’ Equiproportional Overall Increase
+Review of Quotas Adoption of Resolution Increase in Quotas1in Quotas Entry into Effect
+First Quinquennial No increase proposed ——
+Second Quinquennial No increase proposed ——
+1958/59 February 2, 1959 and 50 60.7 April 6, 1959
+April 6, 19592
+Third Quinquennial No increase proposed ——
+Fourth Quinquennial March 31, 1965 25 30.7 February 23, 1966
+Fifth General February 9, 1970 25 35.4 October 30, 1970
+Sixth General March 22, 1976 Increases were 33.6 April 1, 1978
+determined on the basis
+of different groups of
+countries
+Seventh General December 11, 1978 50 50.9 November 29, 1980
+Eighth General March 31, 1983 19 47.5 November 30, 1983
+Ninth General June 28, 1990 30 50.0 November 11, 1992
+Tenth General No increase proposed ——
+Eleventh General January 30, 1998 33.75 45.0 January 22, 1999
+1Uniform percentage increase for all members participating in the review.
+2The February 1959 resolution provided for an equiproportional increase of 50 percent and special increases for 3 countries; the  resolution
+adopted in April 1959 provided for special increases for 14 additional countries.
+FINANCIAL ORGANIZATION AND OPERATIONS OF THE IMF
+60TABLE  II.4. C HANGES  IN IMF Q UOTAS
+(Quotas in millions of SDRs)1
+Changes in Proposed Quotas
+IMF Proposed New members2General Ad hoc
+Membership Quotas Number Quotas reviews3and other Total4
+Year (1) (2) (3) (4) (5) (6) (7)
+19445140 7,514.00 40 7,514.00 —— —
+1950 149 8,036.50 10 649.50 — –2.006522.50
+(1) (125.00) —— —
+1955 158 8,750.50 10 837.00 — 2.006714.00
+(1) (125.00) —— —
+1959 169 14,640.25 11 404.50 5,328.75 156.5075,889.75
+1965 102 20,932.00 34 756.75 4,791.75 793.25 6,291.75
+(1) (50.00) —— —
+1970 116 28,776.00 14 204.25 7,393.50 246.25 7,844.001976 133 38,976.40 17 445.40 9,755.00
+— 10,200.40
+1978 141 59,605.50 8 140.10 19,839.00 650.00 20,629.101983 146 89,236.30 5 394.40 28,176.50 1,059.90 29,630.801990 154 135,214.70
+810 1,016.75 45,082.15 — 45,978.40
+(2) (120.50)
+199891839212,029.00 31 12,736.65 65,802.95 40.00 76,814.30
+(2) (1,765.30)
+2001 183 213,711.00 —— — 1,682.00101,682.00
+1Quotas in the IMF were expressed in U.S. dollars at the equivalent of the 1934 official gold price until the Sixth General Revi ew of Quotas
+in 1976, when the IMF’s unit of account had switched to the SDR, again valued at the 1934 official gold price. Consequently, th e U.S. dollar and
+SDR, through 1970, are directly comparable at an exchange rate of SDR 1 = US$1.
+II General Department
+612Countries that withdrew from membership or whose memberships were conferred to successor countries are shown in parentheses.
+3As of the dates of adoption of Board of Governors’ resolutions proposing adjustments in members’ quotas.
+4Sum of columns (4), (5), and (6).
+5Excluding Australia, Haiti, Liberia, New Zealand, and the U.S.S.R., which did not join the IMF at the time of the Bretton Woods
+Agreement (see Schedule A of the Articles of Agreement), and including increases agreed for Egypt, France, the Islamic Republic  of Iran, and
+Paraguay shortly after the IMF began operations.
+6The quota of Honduras was reduced at its request for 1948 but was restored to the original amount in 1951.
+7Includes SDR 121.0 million of special allocations for countries with small quotas.
+8Includes Cambodia, which did not participate in the Ninth General Review.
+9Includes the Federal Republic of Yugoslavia, which had not yet succeeded to IMF membership. On December 20, 2000, the Executive
+Board of the IMF determined that the Federal Republic of Yugoslavia had fulfilled the necessary conditions to succeed to member ship in the
+IMF.
+10Ad hoc increase for China.
+FINANCIAL ORGANIZATION AND OPERATIONS OF THE IMF
+62to those countries whose ratio of calculated to actual quotas was consid-
+ered to be most “out of line.”34
+Adjustments of quota shares have tended to take place within general
+reviews, usually in the context of an urgent need for additional resources onthe part of the IMF. This reflects the fact that it has been easier to reach
+agreement if all members receive an increase in quotas. Agreement is more
+difficult to reach when only a subset of members receives an increase, as thequotas of all other members would remain unchanged and their quotashares would decline.
+Ad Hoc Increases
+A member can request an adjustment of its quota at any time.35 Ad hoc
+quota increases can occur both within and outside the context of a general
+review. In recent years, they have tended to occur within a general review.
+As with selective increases, both the quota formulas and the ExecutiveBoard’s judgment have played a role in determining the amount of the adhoc adjustment. The following are examples.
+• Five members (France, the Islamic Republic of Iran, Egypt, Paraguay,
+and the Philippines) received ad hoc increases between 1947 and 1959.
+The main factor underlying these increases was the view that the initialquotas of these members at the time of the Bretton Woods conference in1945 had been set at unduly low levels. Between 1959 and 1969, the quo-
+tas of another nine countries were adjusted on an ad hoc basis. All of the
+foregoing increases occurred outside the context of a general review.
+• Japan received an ad hoc increase under the Ninth Review. In this case,
+the seven largest industrial countries agreed to redistribute quotaincreases among themselves in such a manner that the quota increasesfor the rest of the membership were not affected.
+36
+34“Out of line” was defined as those countries with ratios of calculated to actual quotas
+above one. Thirty-eight members met this criterion. Five of these members, whose quotaswere farthest out of line and which were able to contribute to the IMF’s liquidity over the
+medium term, received 1 percent of the 10 percent share going to the group of 38 members.
+35Under Article III, Section 2 (a), the IMF may, “if it thinks fit, consider at any other
+time the adjustment of any particular quota at the request of the member concerned.”
+36As a result of this redistribution to accommodate an ad hoc increase in the quota of
+Japan, the new quotas for Germany and Japan were equalized, as were the quotas of
+France and the United Kingdom (ranked just below those of Japan and Germany), and
+adjustments were made to the quotas of the United States, Canada, and Italy so that thetotal quotas for the seven countries as a group was maintained unchanged.
+II General Department
+63Since 1970, there have been only four ad hoc increases in quotas outside
+the framework of a general review. Ad hoc increases in the quotas of China
+in 1980 and of Cambodia in 1994 were associated with the change in repre-
+sentation of the member in the IMF (China) and the resumption of activerelations with the IMF (Cambodia), as China’s initial quota had never been
+increased and Cambodia’s quota had not been increased since 1970. SaudiArabia received an ad hoc increase in 1981. A major factor underlying SaudiArabia’s ad hoc increase was the desire to strengthen the IMF’s liquidity
+position during the developing country debt crisis before the Eighth Review
+had been completed. China also received an ad hoc quota increase in 2001 tobetter reflect its position in the world economy following its resumption ofexercising sovereignty over Hong Kong. For each of the post-1969 cases, thequota formulas played a role in determining the extent of the ad hocincrease.
+Role of the Quota Formulas
+In practice, the role of the quota formulas in determining actual quotas
+and quota share adjustments has been quite limited. As noted above, quota
+increases in the context of general reviews have been distributed largely onthe basis of a uniform proportionate increase in actual quotas. The continu-ing significant difference between actual and calculated quota sharesreflects:
+• the Executive Board’s view that general quota reviews should provide
+all members with an adequate increase in quota;
+• a general reluctance to make politically difficult quota share adjust-
+ments; and
+• widespread dissatisfaction with formulas that were viewed as overly
+complex, lacking in transparency, and not representative of actual con-ditions in the world economy.
+In 1999, the IMF established an external panel of independent experts, the
+Quota Formula Review Group (QFRG), to assess the adequacy of the for-
+mulas used to guide the determination of quotas and to make recommenda-tions for reforms that would take account of changes in the world economyand the international financial system and the increasing globalization ofmarkets. The eight member panel, chaired by Professor Richard Cooper ofHarvard University, submitted a report that was considered by the Executive
+FINANCIAL ORGANIZATION AND OPERATIONS OF THE IMF
+64Board, along with a staff commentary, in August 2000. The report and staff
+commentary were subsequently published on the IMF’s website.37
+The QFRG report provided information about the history and operation
+of the quota formulas, suggested guiding principles for future reforms, and
+presented recommendations to simplify and update the formulas. The Exec-
+utive Board discussion revealed a wide range of views on the issues raised inthe report and the staff commentary. There was general recognition of theneed to simplify the present formulas and to update them to take account of
+the growing role of capital flows. However, concern was expressed that a
+preliminary partial quantification of the formula recommended by the panelpointed toward a greater concentration of quotas among the largest indus-
+trial countries (subsequently confirmed by more complete and updated staff
+calculations).
+38 Executive Directors agreed on the need to carry forward the
+work of the external panel with a view to developing quota formulas thatmore fully reflect members’ roles in the world economy. The International
+Monetary and Financial Committee (IMFC) supported this view at their
+meeting in Prague in September 2001, and a work program has beenadopted to further consider alternative quota formulas prior to the 2001Annual Meetings.
+Reserve Tranche Positions
+In making the reserve asset portion of their quota payment, members
+acquire a liquid claim on the IMF in exchange for the reserves they provide,
+much like a demand deposit in a commercial bank. This claim is called thereserve tranche position; it is equal to the member’s quota less the IMF’s
+holdings of the member’s currency in the GRA (excluding currency holdings
+that stem from the member’s own use of credit). The share of a member’ssubscription maintained in reserve assets varies over time from its initiallevel of some 25 percent at the time of quota payment. A member’s reserve
+tranche position increases when the IMF uses its currency to lend to other
+members, and decreases when borrowing members use the currency to makerepayments. Reserve tranche positions are part of members’ liquid interna-
+tional reserves because a member may, subject only to its representation of a
+balance of payments need, convert its SDR-denominated reserve asset into
+37See http://www.imf.org/external/np/tre/quota/2000/eng/qfrg/report/index.htm and
+http://www.imf.org/external/np/tre/quota/2000/eng/qfrg/comment/index.htm.
+38See http://www.imf.org/external/np/tre/quota/2001/eng/erqfq.htm.
+II General Department
+65one or more freely usable currencies by drawing on the IMF (Box II.8). A
+member is obligated, if necessary, to provide an amount of reserve assets of
+up to 100 percent of its quota. The amount of reserve assets provided to the
+IMF has in practice fallen well below this maximum (Figure II.5).
+The IMF pays interest, called remuneration, on a member’s reserve posi-
+tion in the IMF, except on a small portion that is provided to the IMF as an
+interest-free resource. This unremunerated (non-interest-bearing) portion
+of the reserve tranche position is equal to 25 percent of the member’s quota
+on April 1, 1978 —that part of the quota that was paid in gold prior to the
+Second Amendment of the IMF’s Articles. The gold tranche was never
+remunerated historically, so it was natural to set aside this same amount in
+terms of SDRs on this date as the unremunerated reserve tranche. For a
+member that joined the IMF after that date, the unremunerated reserve
+tranche is the same percentage of its initial quota as the average unremuner-
+ated reserve tranche was as a percentage of the quotas of all other members
+when the new member joined the IMF . The unremunerated reserve tranche
+remains fixed for each member in nominal terms, but because of subsequent
+quota increases, it is now significantly lower when expressed as a percentage
+of quota.39 The average is equal to 3.8 percent, but the actual percentage is
+different for each member.
+Precautionary Balances
+The IMF’s resources in the GRA increase through additions to its precau-
+tionary balances, which comprise reserves and balances that have been set
+aside in the first Special Contingent Account (SCA-1). The level and rate of
+accumulation of precautionary balances reflect the IMF’s assessment of therisk of future operational deficits and general credit risk, including that aris-
+39In the past, the proportion of the reserve tranche that was remunerated was sometimes
+related to the concept of the “norm” for remuneration, which was calculated as the total of
+(1) 75 percent of a member’s quota before the Second Amendment, plus (2) any subse-
+quent increases in quota. For a country that became a member after April 1, 1978, the
+norm is a percentage of its quota equal to the weighted average relative to quota of the
+norms applicable to all other members on the date that the member joined the IMF, plus
+the amounts of any increases in its quota afterward. At each quota increase, a member’snorm rises, becoming closer to 100 percent of its quota. The remunerated reserve tranche
+excludes certain holdings: all currency holdings acquired when the member used IMF
+resources, and currency holdings in the IMF No. 2 Account that are less than 
+1⁄10 of 1 per-
+cent of the member’s quota. See the section on “IMF Accounts in Member Countries.”
+FINANCIAL ORGANIZATION AND OPERATIONS OF THE IMF
+66ing from overdue obligations and the risk that debtor members in good
+standing might at some point fall into arrears. This latter risk increases withthe level and concentration of outstanding credit, but is contained by thepositive economic effects of members’ adjustment policies and the IMF’s
+preferred creditor status. Reserves also provide a small amount of liquidity
+in the GRA. The level and composition of the precautionary balances in theGRA in recent years are shown in Table II.5.
+Reserves reflect accumulated net income and comprise the Special Reserve
+and the General Reserve. Resources in the Special Reserve may be used for
+any purpose for which resources in the General Reserve may be used, except
+distribution.
+• The Special Reserve was established in 1957, initially with the proceeds
+from a gold investment program, to provide safeguards against opera-tional deficits that were subsequently charged against this reserve.
+Additions to the Special Reserve have since been financed from net
+income, other than income derived from the SRF.
+• The General Reserve was established in 1958 to meet capital losses or
+administrative deficits. From FY1998, SRF net income has been placedBOX II.8. R ESERVE  TRANCHE  POLICIES
+The reserve tranche can be considered as the “facility of first resort.” It
+stands apart from the credit tranches and the various facilities in that a mem-
+ber’s reserve tranche position is part of its own foreign exchange reserves. Pur-
+chases in the reserve tranche do not therefore constitute use of IMF credit. Topreserve this character as a reserve asset available at the discretion of themember, the IMF has adopted reserve tranche policies:
+• The definition of the reserve tranche (quota less holdings of the member’s
+currency) explicitly excludes currency holdings arising from past use of IMFcredit. This is intended to enable members to make purchases in the credit
+tranches without having first to use their reserve tranche. The member can
+choose which resources to use first.
+• Purchases in the reserve tranche are subject to a representation by the
+member of a balance of payments need, as with any use of IMF resources, but
+the member’s representation of need cannot be challenged by the IMF.
+• Reserve tranche purchases are not subj ect to conditi onalit y , charges , or
+repurchase expectations and obligations.
+II General Department
+67in the General Reserve, which is the only income placed in this reserve
+since 1971. Any distribution of the General Reserve must be made to
+all members in proportion to their quotas.
+Special Contingent Accounts (SCAs) are established and balances accu-
+mulated as part of the IMF’s overall strategy to protect itself against the neg-
+ative financial impact of protracted arrears, that is, obligations that have
+remained overdue for at least six months.40 The SCA-1 was established in
+1987 as a safeguard against potential losses resulting from an ultimate failure
+of members in protracted arrears to settle their financial obligations to the
+IMF. After an initial placement of SDR 26.5 million of excess income in thatyear, annual additions to the SCA-1 have been generated through “burden-
+40The IMF also levies special charges on repurchases and charges overdue for less than
+six months. See Chapter V , “Protecting the IMF’s Financial Position.”FIGURE II.5.  A VERAGE  RESERVE POSITION OF MEMBERS IN THE 
+FINANCIAL TRANSACTIONS PLAN, JANUARY 1990–A PRIL 2001
+(In percent of quota)
+010203040506070
+2001 2000 1999 1998 1997 1996 1995 1994 1993 1992 1991 1990
+FINANCIAL ORGANIZATION AND OPERATIONS OF THE IMF
+68TABLE  II.5. L EVEL  OF PRECAUTIONARY  BALANCES  IN THE GRA
+End of Financial Year
+1996 1997 1998 1999 2000120011
+(In billions of SDRs)
+Reserves 1.9 2.0 2.1 2.6 2.8 3.0
+SCA-1 0.7 0.8 0.9 1.0 1.1 1.2SCA-2
+20.9 1.0 1.0 1.0 ——
+Precautionary balances 3.5 3.8 4.0 4.6 3.9 4.2
+Less: credit in arrears –1.1 –1.1 –1.0 –1.0 –1.0 –0.9
+SCA-22–0.9 –1.0 –1.0 –1.0 ——
+Free reserves 1.5 1.7 2.0 2.6 2.9 3.3
+(In percent)
+Free reserves as a percentage of
+credit in good standing 4.2 5.1 4.1 4.3 7.0 8.0
+Precautionary balances as a
+percentage of total credit
+outstanding 9.7 10.9 8.1 7.5 9.0 10.0
+1Excludes cumulative effects of change in accounting method in FY2000.
+2See Box II.9.
+sharing” adjustments to the rate of charge and the rate of remuneration
+(Box II.9). These allocations have amounted to 5 percent of GRA reserves
+at the beginning of the year up until FY2001, when the allocation was
+reduced to 3.3 percent. Balances in the SCA-1 are refundable to the contrib-uting debtor and creditor member countries when all overdue obligations
+have been settled, or earlier if the IMF so decides.
+41
+The IMF’s objective to date has been to maintain a level of total precau-
+tionary balances at least equal to credit to members in protracted arrears, agoal that was first achieved in FY1993, and which has since been maintained.
+41A second Special Contingent Account (SCA-2) was established as a safeguard against
+possible losses arising from purchases made through the encashment of rights accumulated
+under a rights accumulation program (RAP), and to provide additional liquidity for the
+financing of those encashments (see Box II.9 and Chapter V). SCA-2 was terminated in1999.
+II General Department
+69In addition, to protect itself against general credit risk, the IMF has estab-
+lished a target for precautionary balances in excess of overdue credit. Thetarget range for these “free reserves” is 3–5 percent of the amount of out-standing “credit in good standing.” Free reserves had risen to 8.0 percent of
+credit in good standing at end-April 2001 (see Table II.5).BOX II.9. T HE BURDEN -SHARING  MECHANISM
+Since 1986, the burden-sharing mechanism has made up for the loss of
+income from unpaid charges and has been used to accumulate resources in twoSpecial Contingent Accounts (SCAs). The mechanism works by providing foradditions and deductions to the rates of charge and remuneration, respectively.
+Resources collected from individual members under the mechanism are
+refundable to them as arrears cases are resolved, or as may be decided by theIMF. Thus, resources collected for unpaid charges are refunded when thesecharges are eventually settled. At end-April 2001, cumulative deferred chargesthat were subject to burden sharing amounted to SDR 1,796 million and settle-ments of unpaid charges of SDR 993 million had been made and refunded.
+Of the two Special Contingent Accounts, the first, SCA-1, was established
+specifically to protect against the financial impact of arrears in general. Thesecond, SCA-2, collected resources (1) to finance the encashment of “rights”earned by eligible members in arrears to later draw on IMF resources, and(2) to safeguard against the risk of loss arising from purchases made in connec-tion with the encashment of rights. SCA-2 was terminated in 1999, and the bal-ances in the account refunded, after it was concluded that other precautionarybalances in the GRA provided adequate protection against the risks associ-ated with rights-related credit. The termination of SCA-2 was also part of anoverall agreement on the financing of the PRGF (then ESAF) and HIPC initi-atives, for which it was envisaged that some members would voluntarily con-tribute resources refunded from SCA-2.
+In the aggregate, creditor and debtor members have contributed equal
+amounts for unpaid charges and for allocations to the SCA-1, whereas credi-tors provided three-fourths of the amounts contributed to the SCA-2. A totalof SDR 1.2 billion had been accumulated in the SCA-1 at end-April 2001. Atotal of SDR 1 billion was accumulated during the operation of the SCA-2in 1990–97.
+FINANCIAL ORGANIZATION AND OPERATIONS OF THE IMF
+70Income and Expenses
+The amount added to reserves each year is the net income resulting from
+the difference between operational income and operational and administra-
+tive expenses.
+Virtually all of the IMF’s operational income is derived from the charges
+(interest on loans) that are levied on the outstanding use of credit in the
+GRA. In addition to the basic rate of charge (i.e., the rate of charge before
+burden sharing), the use of IMF credit under certain circumstances is subjectto surcharges, and all IMF credit is subject to service charges, commitment
+fees on credit lines, and special charges (see Table II.2).
+42 A small amount of
+income is also generated by receipts of interest on the IMF’s SDR holdings(as explained in Chapter III).
+Operational expenses consist of the remuneration (interest) paid on
+remunerated reserve tranche positions, the allocation to the SCA-1, and thepayment of interest on outstanding IMF borrowing, if any. Net operational
+income (operational income less operational expenses) is used to cover the
+IMF’s administrative expenses, and the remainder constitutes net income(Table II.6).
+43
+Operational Income
+The IMF aims to achieve a target level of net income each financial year
+to add to its reserves.44 Based on the net income target, the SDR interest
+rate, projected credit, and the outlook for administrative expenses, the IMF
+estimates the basic rate of charge that is necessary to achieve the income tar-get.
+45 The basic rate is set for the year as a proportion of the SDR interest
+rate. For FY2001, this proportion was set at 115.9 percent.
+42The IMF also has access to a relatively small amount of interest-free resources, includ-
+ing its precautionary balances and the unremunerated portion of reserve tranche positions
+of members. 
+43The Income Statement of the General Department also includes the income of the
+SDA, which is discussed later in this chapter.
+44The annual increase in reserves was set as 3 percent of reserves in the GRA at the
+beginning of the year for financial years 1981–84, 5 percent for financial years 1985–99, 3.9
+percent for financial year 2000, and 1.7 percent for financial years 2001–02. These figures
+exclude income from surcharges.
+45The procedure setting the basic rate of charge is governed by Rule I-6(4).
+II General Department
+71TABLE  II.6. I NCOME  STATEMENT  OF THE GENERAL  DEPARTMENT ,
+FINANCIAL  YEAR ENDED  APRIL  30, 2001
+(In millions of SDRs)
+GRA operational income
+Interest and charges 2,207.1
+Interest on SDR holdings 112.5
+Other charges and income 68.7
+2,388.3
+GRA operational expenses
+Remuneration and financing costs 1,734.3Allocation to SCA-1 94.0
+1,828.3
+GRA administrative expenses 384.6
+Net GRA income 175.5
+SDA income
+Income earned on investments 150.0Interest on loans 1.4
+Net SDA income 151.4
+Note: Numbers may not add to totals due to rounding.
+A separate midyear review is undertaken to establish whether an adjust-
+ment to the basic rate of charge is required in view of developments during
+the year.
+At the end of the financial year, if net income exceeds the amount pro-
+jected at the beginning of the year, the Executive Board has, in recent years,
+decided to reduce the rate of charge retroactively. Alternatively, the Boardcan decide to:
+• place all or part of any excess to reserves; or
+• make a distribution of excess income to members; or• take the excess into account to lower the net income target for the sub-
+sequent financial year.
+When net income falls short of the target, the Executive Board has gener-
+ally decided to increase the rate of charge in the subsequent financial year to
+make up for the shortfall.
+FINANCIAL ORGANIZATION AND OPERATIONS OF THE IMF
+72Operational Expenses
+The IMF pays remuneration (interest) on members’ reserve tranche posi-
+tions equal to the SDR interest rate, except on a small portion, as indicatedearlier (see section on “Reserve Tranche Positions”).
+46 Remuneration pay-
+ments account for almost all of IMF operational expenses when there is no
+outstanding IMF borrowing. If borrowing is outstanding, the IMF also paysinterest on it. The interest rate on borrowing under the General Arrange-
+ments to Borrow (GAB) is equal to the SDR interest rate, while under the
+New Arrangements to Borrow (NAB), it may be equal to or higher than theSDR interest rate, as explained below under “Borrowing.”
+Administrative Expenses
+The IMF’s administrative expenses can be divided into personnel, travel,
+building occupancy, and other such costs. Personnel and travel-related out-
+lays typically account for about 80 percent of total administrative expenses.The GRA is reimbursed for the cost of administering the SDR Department
+through an assessment levied in proportion to each participant’s allocation
+of SDRs. The GRA is also to be reimbursed for the expenses incurred inadministering the PRGF Trust. However, following the establishment of the
+SRF and the consequent increase in net income, this reimbursement has
+been forgone and the amount that would otherwise have been reimbursedhas been transferred to the PRGF-HIPC Trust. This arrangement has been
+in place since 1998 and is expected to continue up to 2004.
+Borrowing
+The IMF can borrow to supplement its quota resources. It maintains two
+standing borrowing arrangements with official lenders and can borrow from
+private markets, although it has not done so to date. Borrowing has playedan important role in providing temporary, supplemental resources to the
+IMF at critical junctures in the past (Table II.7). In recent years, the borrow-
+ing arrangements with official lenders have been enlarged and their partici-pation broadened, strengthening IMF liquidity.
+46/G01The basic (unadjusted) rate of remuneration has been equal to the SDR interest rate
+since February 1, 1987. However, refundable adjustments to that rate are made under
+“burden sharing.” The Articles require that the rate of remuneration be maintained in the
+range of 80–100 percent of the SDR interest rate. The current relationship between therate of remuneration and the SDR interest rate is governed by Rule I-10. 
+II General Department
+73TABLE  II.7. IMF B ORROWING
+(In billions of SDRs)
+ Number of
+ Countries or Agreed
+ Central Banks Amount
+Current borrowing arrangements
+General Arrangements to Borrow (1983–2003) 11 17.0
+Associated agreement with Saudi Arabia (1983–2003)  1  1.5
+New Arrangements to Borrow (1998–2003) 25 34.0
+Past borrowing arrangements
+General Arrangements to Borrow (1962–83) 10  6.4
+Oil facility (1974)  7  2.8Oil facility (1975) 12  2.9
+Supplementary financing facility (1979–84) 14  7.8
+Enlarged access to resources
+Medium-term (1981)
+Saudi Arabian Monetary Agency (SAMA)  1  8.0
+Short-term (1981)
+Bank for International Settlements (BIS) and others 19  1.3
+Short-term (1984)
+SAMA, BIS, Government of Japan, and National
+Bank of Belgium 4  6.0
+Government of Japan (1986)  1  3.0
+Current Borrowing Arrangements
+The General Arrangements to Borrow have been in place since 1962. The
+GAB were originally conceived as arrangements whereby the main industrial(Group of Ten) countries agreed to stand ready to lend the IMF up to speci-fied amounts of their currencies, thereby strengthening its financial position.These loans would be made when supplementary resources were needed bythe IMF to help finance drawings by GAB participants in a setting where such
+financing would forestall or cope with an impairment of the international
+monetary system. Because the industrial countries have the largest quotasand may, when they need to, claim a large proportion of the IMF’s usableresources, the GAB provide strong support for the IMF’s financial soundnessand for ensuring that resources available to other countries are not reduced.
+FINANCIAL ORGANIZATION AND OPERATIONS OF THE IMF
+74The GAB enable the IMF to borrow specified amounts of currencies from
+11 industrial countries or their central banks, under certain circumstances, at
+market-related rates of interest (Table II.8). The potential amount of creditavailable to the IMF under the GAB is SDR 17 billion, with an additional
+SDR 1.5 billion available under an associated agreement with Saudi Arabia.
+The GAB are reviewed and renewed regularly. A broad review of the
+GAB was undertaken in 1983, at the outset of the developing country debtcrisis. The most important changes to emerge from that review were the sub-
+stantial enlargement of the GAB to its present size (from about SDR 6 bil-
+lion), the addition of SDR 1.5 billion under the associated agreement withSaudi Arabia, and the change to permit use of the GAB to finance IMF
+lending to nonparticipants in the GAB if the IMF faces an inadequacy of
+r e s o u r c e s .  S i n c e  1 9 8 3 ,  t h e  G A B  a n d  t h e  a s s o c i a t e d  a g r e e me n t  w i t h  S a u d iArabia have been renewed every four or five years without further modifi-
+cation, most recently for a further five-year period from December 26, 1998.
+The GAB have been activated ten times. The GAB were last activated in
+July 1998 for an amount of SDR 6.3 billion (SDR 1.4 billion of which was
+drawn) in connection with the financing of an Extended Arrangement forRussia. The activation for Russia was canceled in March 1999, when the IMF
+repaid the outstanding amount following the coming into effect of the Elev-
+enth General Review of Quotas and payment of the bulk of the quotaincreases. Prior to the activation for Russia, the most recent activation
+occurred in 1977, when the IMF borrowed for lending to the United Kingdom
+and Italy under Stand-By Arrangements, and in 1978 to finance a reservetranche purchase by the United States. A proposal for calls on the GAB by
+the IMF’s Managing Director can become effective only if it is accepted by the
+GAB participants, and the proposal is then approved by the Executive Board.
+The IMF also has New Arrangements to Borrow to deal with financial cri-
+ses. Following the Mexican financial crisis in December 1994, concern that
+substantially more resources might be needed to respond to future financial
+crises prompted participants in the June 1995 Group of Seven Halifax Sum-mit to call on the Group of Ten and other financially strong countries to
+develop financing arrangements that would double the amount available to
+the IMF under the GAB. The NAB became effective on November 17, 1998.
+The NAB effectively double the resources available under the GAB. The
+NAB are a set of credit arrangements between the IMF and 25 members and
+institutions to provide supplementary resources to the IMF to forestall or
+cope with an impairment of the international monetary system or to dealwith an exceptional situation to the stability of that system. The NAB do not
+II General Department
+75TABLE  II.8. G ENERAL  AND  NEW ARRANGEMENTS  TO BORROW
+(In millions of SDRs)
+General Arrangements New Arrangements
+Participant to Borrow  to Borrow
+Australia n.a. 810.0
+Austria n.a. 412.0Belgium595.0 967.0Canada 892.5 1,396.0Denmark n.a. 371.0
+Deutsche Bundesbank 2,380.0 3,557.0
+Finland n.a. 340.0France 1,700.0 2,577.0Hong Kong Monetary Authority n.a. 340.0Italy 1,105.0 1,772.0
+Japan 2,125.0 3,557.0
+Korea n.a. 340.0Kuwait n.a. 345.0Luxembourg n.a. 340.0
+Malaysia n.a. 340.0
+Netherlands 850.0 1,316.0
+Norway n.a. 383.0Saudi Arabia n.a. 1,780.0Singapore n.a. 340.0Spain n.a. 672.0
+Sveriges Riksbank 382.5 859.0
+Swiss National Bank 1,020.0 1,557.0Thailand n.a. 340.0United Kingdom1,700.0 2,577.0United States 4,250.0 6,712.0
+Total 17,000.0 34,000.0Associated agreement with
+Saudi Arabia 1,500.0 n.a.
+FINANCIAL ORGANIZATION AND OPERATIONS OF THE IMF
+76re p l ac e  t h e GA B ,  w h i c h  re mai n  i n  f o rc e .  H o w eve r ,  t h e N AB  a r e  th e  f i rst
+and principal recourse in the event of a need to provide supplementaryresources to the IMF. The total amount of resources available to the IMFunder the NAB and GAB combined is SDR 34 billion.
+The NAB can be renewed and enlarged. The NAB decision will be in
+effect for five years from its effective date and may be renewed, at whichtime an IMF member or institution that is not currently a participant in theNAB may be accepted as a participant, if the IMF and participants repre-senting 80 percent of the total credit arrangements agree to the request. Newparticipants may be accepted at other times by way of an amendment to theNAB adopted by a decision of the IMF’s Executive Board and with the con-currence of participants representing 85 percent of total credit arrange-ments. Commitments from participants are based on relative economicstrength, as measured by actual IMF quotas, as a predominant criterion.
+Activation procedures for the NAB are modeled on the GAB. The NAB
+have been activated once
+—to finance a Stand-By Arrangement for Brazil in
+December 1998, when the IMF called on funding of SDR 9.1 billion (SDR2.9 billion of which was used). This activation was canceled on March 11,1999, when the IMF repaid the outstanding amount following the entry intoeffect of the Eleventh General Review of Quotas and payment of the bulkof the quota increases.
+Past Borrowing Arrangements
+The IMF borrowed extensively when payments imbalances were large and
+persistent. Reliance on borrowing was especially heavy during the period oflarge payments imbalances between the early 1970s and the mid-1980s, whenborrowing financed 40–60 percent of IMF credit. The need for supplemental
+resources to meet the heavy demand for IMF resources stemmed in partfrom the relatively small increases in quotas approved in the 1970s, and theneed to bridge to the increases in quotas in 1980 and 1983. Also importantwas the skewed distribution of payments imbalances relative to the distribu-tion of quotas at the time:
+• large payments surpluses were concentrated in a comparatively small
+number of members with relatively small quotas; and
+• payments deficits were far more widely dispersed and were large rela-
+tive to the quotas of most members.
+The IMF has borrowed only from official sources. Borrowing has been
+almost exclusively from members or their monetary authorities, the excep-tions being nonmember Switzerland (now a member), the Hong Kong Mon-
+II General Department
+77etary Authority (under the NAB), and the Bank for International
+Settlements (BIS). Borrowing from official sources has the advantage thatthese lenders are familiar with the IMF’s needs and operational features,and there is by now a substantial body of experience from which to draw.The IMF is permitted to borrow from private sources and has consideredthis option on several occasions: the prevailing view has been that resort toprivate market borrowing would change the cooperative and monetarynature of the institution in ways that would be undesirable; a number ofoperational issues would also need to be addressed, such as the use of collat-eral, managing financial risk, and the cost relative to official borrowing.
+Borrowing arrangements share many common characteristics:
+•Denomination of borrowing . The indebtedness of members to the IMF
+is denominated in SDRs. To avoid exchange risks, IMF borrowing has
+generally been denominated in SDRs or the currencies that make upthe SDR basket in proportion to their weight in that basket.
+•Media of payment . The IMF cannot borrow SDRs. In most bilateral bor-
+rowing agreements, the lender has provided U.S. dollars or its own freelyusable currency, or the lender has undertaken to convert its currency intoa freely usable currency as needed by the IMF. For repayment, the IMFhas generally sought maximum flexibility in the borrowing agreementbut lenders have on occasion insisted on repayment in the currency of
+their choice, usually U.S. dollars or their own currency.
+•Maturities . The IMF seeks to match the maturities of its assets and liabil-
+ities. Under the two Oil Facilities and the SFF, for example, the IMF bor-
+rowed when currency was needed for purchase and repaid lenders when
+the corresponding repurchases were made. This was not possible underthe borrowing agreements established for the Enlarged Access Policy(EAP), as some central banks were willing to lend only at the short endof the maturity spectrum (see Table II.7). The resulting mismatch ofmaturities led to the establishment of Borrowed Resources Suspense
+Accounts within the GRA as a means of holding and investing tempo-
+rarily currencies not yet needed to finance purchases under the EAP .
+•Liquidity and transferability . Borrowing agreements with lenders other
+than the BIS have consistently provided for encashability at face value
+upon representation of balance of payments need. These agreements
+further stipulate that the IMF would give such a representation theoverwhelming benefit of the doubt. A member’s lending to the IMF istherefore regarded as a liquid reserve asset and is included as part ofthe member’s international reserves. In addition, claims on the IMF are
+FINANCIAL ORGANIZATION AND OPERATIONS OF THE IMF
+78normally transferable to other official holders, which provides some
+protection to the IMF’s liquidity.
+•Interest rates.  In the early years of the IMF, interest rates on IMF bor-
+rowing and charges on purchases financed by borrowed resources werevery low. Following the introduction of remuneration with the FirstAmendment of the Articles of Agreement in 1969, more attention waspaid to the rate of return on the reserves that members made available tothe IMF. Market rates were increasingly seen by members as the oppor-tunity cost of lending to the IMF. In line with market practice, borrowingagreements since 1977 have provided for floating interest rates. To pro-tect the IMF’s income position, the cost of borrowing plus a small marginhas been reflected in the rate of charge on the use of borrowed resources.
+Management of Financial Resources
+and the Liquidity Position
+for lending. The IMF’s usable resources consist of currencies of IMF mem-
+bers with a strong balance of payments position and SDRs, which stemmainly from quota payments. The institution maintains substantial holdingsof gold and other fixed assets, but these are not used in lending operations.Borrowing by the IMF to finance the extension of credit through the GRA isan important complement to the use of its quota resources but remains theexception rather than the rule. Borrowing is, however, a central feature ofIMF lending under the PRGF, as discussed in Chapter IV .
+The usability of the IMF’s currency holdings varies over time. In principle,
+the currencies of all members are available for use in IMF transactions.Members have an obligation to convert balances of their currency purchasedfrom the IMF by other members into one of the four freely usable curren-
+47
+position to meet this currency exchange obligation when drawing up itsquarterly financial transactions plan (see below). The currencies of these
+47Article V, Section 3 (e)(i).As noted above, not all of the IMF’s resources are immediately available
+cies: the U.S. dollar, the euro, the Japanese yen, and the pound sterling.
+The IMF determines which members are in a sufficiently strong external
+II General Department
+79members are considered to be usable in IMF transactions for the duration of
+that quarter, while all other currencies are considered unusable.
+The IMF’s holdings of SDRs are a readily usable resource, but these hold-
+ings account for only a small fraction of the IMF’s assets. The use of SDRs
+held by the IMF is therefore not limited to the same extent as the use of itscurrency holdings. The IMF periodically establishes a long-term target range
+for the level of its SDR holdings, which guides the actual use of SDRs in
+IMF transactions. Other factors affecting the level of the IMF’s holdings ofSDRs are discussed in Chapter III.
+The IMF closely monitors its liquidity position. Table II.9 presents the
+IMF’s financial resources and liquidity position as of April 30, 2001.
+48 F or
+this purpose, the stock of usable resources is adjusted downward to take intoaccount amounts already committed to members under existing IMF
+arrangements. A further downward adjustment is made to ensure that the
+IMF retains at all times sufficient working balances of each of the currenciesof members included in the financial transactions plan. The resulting
+amount of net uncommitted usable resources is in principle available to
+meet new demand for IMF resources. In practice, however, the adequacy of
+the IMF’s liquidity position must also take into account the existence of liq-
+uid claims accumulated by its creditor members: reserve tranche positionsand any outstanding loans under the GAB and NAB. These are considered
+liquid liabilities because they can be drawn at short notice in the event of
+balance of payments need, akin to demand deposits in a commercial bank,and are thus the first claim on IMF resources. The liquidity ratio ties these
+two concepts together in a single measure of the IMF’s liquidity. Historically,
+the liquidity ratio has never fallen below 25–30 percent.
+Financial Transactions Plan
+The IMF manages its usable resources through a financial transactions
+plan. This is the mechanism through which the IMF selects the memberswhose currencies are to be used in IMF transactions and allocates thefinancing of those transactions among members included in the plan. Bothcurrencies and SDRs are included in the financial transactions plan fortransfers (credits) from the IMF to borrowing members but only currencies
+  
+48The IMF’s “Financial Resources and Liquidity Position” is posted monthly on the
+IMF’s website (http://www.imf.org/external/np/tre/liquid).
+FINANCIAL ORGANIZATION AND OPERATIONS OF THE IMF
+80TABLE  II.9. IMF F INANCIAL  RESOURCES  AND  LIQUIDITY  POSITION ,
+APRIL  30, 2001
+(In billions of SDRs unless otherwise indicated)
+III. Total resources 217.5
+Members’ currencies 207.9
+Gold holdings 5.9SDR holdings 2.4
+Other assets 1.3
+Available under GAB/NAB activation
+—
+III. Unusable resources 105.4
+III. Usable resources (I – II) 112.1IV . Amounts committed under arrangements 18.1
+IV. Minimum working balances 15.3
+VI. Net uncommitted usable resources (III – IV – V) 78.7VII. Balances available under the GAB/NAB 34.0VIII. Liquid liabilities 46.7
+Reserve tranche positions 46.7Outstanding borrowing under the GAB/NAB —
+IIX. Liquidity ratio (VI/VIII, in percent) 168.4
+Note: Numbers may not add to totals due to rounding.
+are included for receipts (repayments) from borrowing members; receipts in
+SDRs are not managed through the plan as the IMF has little or no discre-
+tion over their use by members. The total amount for transfers in the trans-
+actions plan is based on the expected volume of credit to be extended tomembers and operational payments by the IMF (such as interest on official
+borrowing by the IMF) during the plan period. Receipts in currencies are
+estimated on the basis of the schedule of forthcoming repayments and thepreferences of members with respect to the media of payment (i.e., curren-
+cies versus SDRs).
+II General Department
+81Currency selection is based on judgments about the external positions of
+members. The currencies of members are selected for inclusion in the finan-
+cial transactions plan based on a finding by the IMF that the member’s bal-
+ance of payments and reserve position is sufficiently strong. Specific indicators
+of external strength are used to maintain a reasonable degree of consistency
+among members, but the assessment of a member’s combined balance of pay-ments and reserve position is ultimately a matter of judgment. It has not
+therefore been considered desirable to rely on automatic indicators or to
+define rigidly the notion of a sufficiently strong external position; the circum-stances of members, including their need to hold reserves, differ considerably.
+All relevant factors and data are considered in this assessment. Particular
+emphasis is placed on recent and prospective current account balances,
+external competitiveness, and external debt indicators, especially those
+offering insights into the member’s exposure to short-term liquidity strains.Members may be included in the financial transactions plan even though
+there may be some elements of weakness in their overall balance of pay-
+ments and reserve position.
+Two broader considerations underlying the financial structure of the IMF
+have guided the staff and the Executive Board in coming to conclusionsabout a member’s external strength for the purpose of participation in the
+financial transactions plan.
+• First, the IMF draws on a wide range of members
+—large and small,
+advanced, developing, and transition —for its financial activities, reflect-
+ing first and foremost the cooperative nature of the institution. Broad
+participation of members in the financial transactions plan also works to
+maximize the liquidity of the GRA.
+• Second, the use of a member’s currency in the financial transactions plan
+generally entails a change in the composition of the member’s interna-
+tional reserves. For most of these members, IMF transactions involve a
+reduction (increase) in their foreign exchange holdings, which is fullyoffset by an increase (decrease) in their reserve tranche position in theIMF . This creditor position is included as part of the member’s interna-
+tional reserves as it is a liquid claim on foreign exchange resources that
+can be drawn on demand in the event of balance of payments need.
+Decisions on the selection of currencies are taken by the Executive
+Board. The staff proposes a list of members it considers sufficiently strongeach quarter, and the Executive Board takes a decision based on this list. It
+FINANCIAL ORGANIZATION AND OPERATIONS OF THE IMF
+82is open to an Executive Director to request the exclusion or inclusion of any
+member, but the decision rests with the Executive Board as a whole. Amember’s consent to its inclusion is not required, although its views on itsbalance of payments and reserve position are taken into account by theExecutive Board before a decision is taken. The outcome of the financial
+transactions plan is published on the IMF’s website.
+49
+Currency allocation aims to maintain broadly even participation among
+members. The allocation of transfers and receipts among members in thefinancial transactions plan is based on guidelines established by the ExecutiveBoard.
+50 The currencies of all members included in the financial transactions
+plan are allocated for transfers in direct proportion to their quotas. Receipts
+are allocated to members’ currencies included in the plan so as to ensure that
+the creditor positions of members included in the plan remain broadly bal-anced over time in relation to quota. The net impact of both transfers andreceipts on reserve tranche positions is illustrated in Figure II.6.
+If a currency included in the financial transactions plan is not one of the
+currencies that the IMF has determined to be freely usable in the principal
+foreign exchange markets, the issuing member is required, if requested by a
+purchasing member at the time of the purchase, to exchange the amount ofits currency sold by the IMF for a freely usable currency (in most cases, theU.S. dollar) at the representative exchange rate as advised by the IMF. Pro-cedures have also been established for the exchange of each freely usablecurrency into other freely usable currencies. Similar procedures apply to
+exchanges of currencies related to repurchases.
+Special Disbursement Account
+The SDA was initially activated to receive transfers from the Trust Fund.
+The Trust Fund had been funded largely from the sale of gold and upon itstermination in 1981, all Trust Fund loan repayments were transferred to theSDA. Loans were provided from the SDA under the Structural AdjustmentFacility (SAF), which was established in March 1986 to provide balance of
+49The “Quarterly Report on Financing IMF Transactions” is posted one quarter after
+the end of the period on the IMF’s website (http://www.imf.org/external/np/tre/ftp).
+50See S elected Decisions and Documents of the International Monetary Fund  (Washing-
+ton: IMF, Twenty-Fifth Issue, June 30, 2000), pp. 260–65. 
+II General Department
+83FIGURE  II.6.  R ESERVE POSITIONS, AS OF APRIL 30, 2001
+(In percent of quota)
+Source: International Monetary Fund, International Financial Statistics.0102030405060708090100
+SpainGermanyChile NetherlandsGreeceFranceCanadaUnited StatesBelgiumAustriaAustraliaJapanSingaporeItalyUnited Arab EmiratesUnited KingdomOmanNorwayIrelandBotswanaPortugalDenmarkNew ZealandSwedenKuwaitChinaFinlandSwitzerlandSloveniaLuxembourgBrunei DarussalamQatarHungarySaudi ArabiaPolandIsraelTrinidad and TobagoCzech Republic
+FINANCIAL ORGANIZATION AND OPERATIONS OF THE IMF
+84payments assistance on concessional terms to qualifying low-income mem-
+ber countries, from 1986 until the end of 1995, when the SAF itself wasphased out.
+51 From the establishment of the Enhanced Structural Adjust-
+ment Facility (ESAF) in December 1987 until February 1994, unused SDAresources were also used to finance ESAF loans.
+The assets of the SDA now consist of the remaining loan balances out-
+standing under the SAF and investments in marketable fixed-income securi-ties. These assets originate from the transfers received from the Trust Fundand the profits from the sale of a portion of the IMF’s gold in financial year2000. The net income from the investment of gold profits has been autho-rized for transfers, on an as-needed basis in accordance with the decisions ofthe IMF, to the Poverty Reduction and Growth Facility–Heavily IndebtedPoor Countries Trust (PRGF-HIPC Trust).
+Chapter IV discusses the financing and conduct of concessional lending by
+the IMF, including the investment of SDA resources.
+IMF Accounts in Member Countries
+The IMF conducts its financial dealings with a member through the fiscal
+agency and the depository designated by the member. The fiscal agency may
+be the member’s treasury (ministry of finance), central bank, official mone-tary agency, stabilization fund, or other similar agency. The IMF can only
+deal with, or through, the designated fiscal agency, which is authorized to
+carry out transactions with the IMF on behalf of the member country. Inaddition, each member is required to designate its central bank as a deposi-
+tory for the IMF’s holdings of the member’s currency, or if it has no central
+bank, a monetary agency or a commercial bank acceptable to the IMF. Mostmembers of the IMF have designated their central bank as both the deposi-
+tory and the fiscal agency. The depository is required to pay out of the IMF’s
+holdings of the member’s currency, on demand and without delay, sums toany payee named by the IMF in the member’s own territory, and to hold
+securities on behalf of the IMF should the member decide to issue nonnego-
+tiable, non-interest-bearing notes, or similar instruments, in substitution forpart of the IMF’s currency holdings. Each member guarantees all assets of
+the IMF against loss resulting from failure or default on the part of the
+51Interest on SAF loans is charged at ½ of 1 percent a year.
+II General Department
+85depository. Thus, the IMF’s pool of currencies and reserve assets in the
+GRA are not held at the IMF, but in depositories in the member countries.
+The depository maintains, without any service charge or commission, two
+accounts that are used to record the IMF’s holdings of the member’s currency:
+the IMF No. 1 Account and the IMF No. 2 Account. The No. 1 Account isused for IMF transactions, including subscription payments, purchases and
+repurchases (i.e., use and repayment of GRA resources), and repayment of
+resources borrowed by the IMF. Payment of charges on the use of IMF creditand the IMF’s payment of interest on reserve tranche positions are conducted
+in SDRs and therefore not recorded in these accounts. Provided that a mini-
+mum is maintained in the No. 1 Account, as explained below, all these transac-tions can alternatively be carried out through the IMF Securities Account. A
+member may establish an IMF Securities Account in order to substitute parts
+of the holdings in the IMF No. 1 Account with nonnegotiable, non-inter-est-bearing notes, or similar instruments payable to the IMF on demand when
+the currency is needed for the IMF’s transactions. The depository holds these
+notes for safekeeping and acts as the agent of the IMF to obtain encashmentof the notes in order to maintain, at all times, the minimum required balance
+in the No. 1 Account.
+52
+The No. 2 Account is used for the IMF’s administrative expenditures and
+receipts (for example, from sales of IMF publications) in the member’s cur-rency and within its territory. The balances in both the No. 1 and No. 2Accounts that originate from the payment of the local currency portion ofquota subscriptions do not yield any interest for the IMF. The currency por-tion of the subscribed capital, while fully paid, is held in non-interest-bearingform and generates no income for the IMF until used and converted intoclaims on members in the form of use of IMF credit.
+Disclosure of Financial Position with the IMF in the
+Member Country53
+When a member has designated the central bank as both depository and
+fiscal agent, the central bank should present the full financial position of the
+52If any payment by the IMF reduces the balance in the No. 1 Account below a mini-
+mum of ¼ of 1 percent of the member’s quota, the balance is to be restored to that level by
+the next business day through the encashment of sufficient notes.
+53This discussion presents IMF member positions in the General and SDR Departments.
+FINANCIAL ORGANIZATION AND OPERATIONS OF THE IMF
+86member with the IMF in its balance sheet.54 A central bank may choose to
+indicate this on either a gross or net basis. The position in the GeneralDepartment is presented on a gross basis if the IMF No. 1, No. 2, and Securi-ties Accounts are shown as liabilities and the member’s quota is shown as anasset. Membership in the SDR Department would be indicated by showingSDR holdings as an asset and the cumulative SDR allocation as a liability.
+Members may also choose to reflect their financial position on a net basis.
+A member who has a net reserve tranche position in the IMF and is notusing IMF credit would present the net reserve tranche position as anasset.
+55 Members with a net reserve tranche position who are also using
+credit in the GRA would disclose the reserve tranche as an asset and cur-rency holdings stemming from the use of IMF credit as a liability, since theIMF is not entitled to demand settlement or offset a member’s use of credit
+from its reserve tranche position. The members’ position in the SDRDepartment may also be shown on a net basis. The presentation of IMF-related assets and liabilities should be further elaborated in the explanatorynotes to the financial statements and, as a minimum, provide informationnot available in the balance sheet regarding the member’s quota, the compo-
+sition of the IMF’s currency holdings, and the maturity structure of IMFcredit, if any.
+In cases where the central bank acts as depository and the ministry of
+finance, treasury, or a similar agency is the fiscal agent, it is recommendedthat the central bank record all IMF-related assets and liabilities and offsetthese against government accounts.
+56 While practices may differ depending
+on the relationship between the central bank and the agency acting as fiscalagent, this approach ensures public disclosure of the member’s financialrelationship with the IMF, since government agencies typically do not pre-
+  
+54For this reason it is also recommended to include the Securities Account in the IMF
+position, even though the actual securities may be issued by the government. The IMF con-
+siders securities issued in lieu of currency deposits to the IMF No. 1 Account equivalent to
+currency holdings because they are encashable on demand. Exclusion of the Securities
+Account would therefore misrepresent the member’s overall IMF position.
+55A member has a net reserve tranche position when its quota exceeds the IMF’s hold-
+ings of its currencies, excluding currencies stemming from the use of IMF credit and hold-
+ings in the No. 2 Account that are less than 1⁄10 of 1 percent of quota.
+56Of the IMF’s 183 member countries, only 41 have not designated their central bank as
+the fiscal agent.
+II General Department
+87pare financial statements.57 Consolidating the IMF position in the balance
+sheet of the central bank also allows for a simple reconciliation between for-eign reserves data monitored under an IMF-supported program or pub-lished by a member and the balance sheet of the central bank. Since mostcentral banks are subject to an annual audit, full inclusion of the IMF posi-tion provides additional assurance about the accuracy and availability of for-eign reserves.
+Appendix IV illustrates how IMF membership could be presented on
+either a gross or net basis in the balance sheet of a central bank that acts asboth fiscal agent and depository for the member with the IMF. 
+57PRGF transactions would also be shown in the balance sheet of the central bank if the
+central bank were the recipient of the proceeds of PRGF disbursements.

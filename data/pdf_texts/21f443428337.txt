@@ -1,0 +1,281 @@
+Key IMF Financial Statistics  
+1  
+               Term  Definition  
+Available Resources  
+GRA 
+Usable resources   Usable resources consist of: (i) the IMF’s holdings of the currencies of members 
+considered by the Executive Board to have a sufficiently strong balance of payments 
+and reserve position for their currencies to be used in the financing of IMF 
+transactions ( see Financing IMF Transactions  ii) holdings of c.o.b. February 25, 
+2016, the Board approved the deactivation of the NAB for financing new Fund commitments, and changed the ratio (from 3:1 to 1:1 of NAB to quota resources) for 
+financing drawings under Fund commitments approved during pr ior NAB activation 
+periods.  
+Uncommitted usable resources   Usable resources less the full amount of undrawn balances under GRA lending 
+commitments.  
+Forward commitment capacity    A measure of the resources available for new financial commitments, equal to 
+uncommitted usable resources plus repurchases one -year forward less 
+repayments of borrowing due one -year forward and less the prudential balance.  
+ 
+PRG Trust   Trust  administered by the IMF to conduct concessional lending operations 
+through the Loan, Reserve and Subsidy Accounts.  
+Total lending commitments   
+Of which: Undrawn lending   Commitments available to borrowers not yet disbursed under PRGT arrangements  
+amounts under Commitments      
+Loans outstanding   Outstanding disbursements to borrowers under PRGT arrangements.  
+Undrawn loan resources   Loan Account resources committed by lenders to the PRG Trus t but not yet 
+drawn .  
+Uncommitted loan resources    Available PRGT loan account resources less undrawn commitments made to 
+eligible member countries.  
+ 
+RS Trust   Trust administered by the IMF to offer longer -term financing to low -income and 
+vulnerable middle -income countries seeking to build resilience to external 
+shocks at affordable interest rates.  
+Total lending commitments   
+Of which: Undrawn lending   Commitments available to borrowers not yet disbursed under RST arrangements                                  
+amounts under Commitments    
+Loans outstanding   Outstanding disbursements  to borrowers  under  RS Trust  arrangements.  
+Undrawn loan resources   Loan Account resources committed by lenders to the RS Trust  but not yet drawn  
+Uncommitted  loan resources  Available  RS Trust  loan account resources  less undrawn commitments  made to eligible  
+member  countries.  
+Key IMF Financial Statistics  
+2  
+         Term  Definition  
+Financial Assistance  
+GRA   The General  Resources  Account  (GRA)  contains  IMF holdings  of members’  
+currencies, SDRs, gold, and other assets. These holdings are principally derived 
+from quota subscription payments plus any activated borrowings.  
+Purchases   GRA  resources  disbursed to members  during the period  (outflows).  
+Repurchases   GRA resources repaid by members during the period (inflows).  
+Credit outstanding   Total GRA resources disbursed less repurchases.  
+Outstanding Fund borrowings   Total GRA borrowings less repayments.  
+ 
+PRG Trust   The PRG  Trust  (PRGT) provides  financial  support  to low-income  member  
+countries  via concessional loan facilities.  
+Disbursements   PRG  Trust  resources  disbursed to members  during  the period.  
+Repayments    PRG  Trust  resources  (including  outstanding  Trust  Fund and Structural 
+Adjustment Facility (SAF) loans) repaid by members during the period.  
+Credit outstanding   Total PRG  Trust  resources  disbursed less repayments  (including  outstanding Trust  
+Fund and Structural Adjustment Facility (SAF) loans).  
+ 
+RS Trust   The RS Trust  (RST) provides  financial  support  to low-income and vulnerable 
+middle -income countries seeking longer -term financing to build resilience to 
+external shocks at affordable interest rates.  
+Disbursements   RS Trust  resources  disbursed to members  during the period.  
+Repayments    RS Trust  resources  repaid by members during the period.  
+Credit outstanding   Total RS Trust  resources  disbursed  less repayments.  
+ 
+HIPC   Assistance  provided to eligible  countries  under  the Heavily  Indebted Poor  
+Countries (HIPC) Initiative.  
+Number  of countries   Number  of countries  for which  HIPC  assistance  has been  committed.  
+ 
+Commitments    Cumulative  commitments  made  to HIPC -eligible  members  that have  reached  the 
+decision point under the HIPC Initiative; includes amounts that the IMF has 
+indicated will be committed subject to satisfactory assurances regarding exceptional 
+assistance to be provided by other creditors under the HIPC Initiative.  
+ 
+ 
+ 
+Key IMF Financial Statistics  
+3  
+  
+       Term  Definition  
+Disbursements    Cumulative  grants  to members  eligible  for financial assistance  under  the HIPC  
+Initiative to be used to help meet debt service payments to the IMF.  
+Of which:  
+Interim assistance   Cumulative  grants  to members  between  their decision  and completion 
+point.   
+Completion point assistance    Final grants to members at their completion points.  
+ 
+MDRI    The Multilateral Debt Relief Initiative (MDRI) provides 100% debt relief to eligible 
+member  countries  that are qualified  for the assistance.  The debt relief  covers  the full 
+stock of debt owed to the Fund as of end- 2004, and still outstanding at the time the 
+country qualifies for such debt relief. Such MDRI debt relief operations have 
+ceased, as the Executive Board approved the liquidation of the MDRI -I and MDRI -
+II Trusts effe ctive February 4, 2015 and August 1, 2015, respectively.  
+Number  of countries   Number  of countries  which  have  received  MDRI  debt relief.  
+Total Debt  Relief  financed 
+from:  
+MDRI Trusts   MDRI  resources  (excluding HIPC  debt relief)  disbursed  to members  during  the 
+period.  
+HIPC Umbrella Account    HIPC resources used as debt relief under the MDRI during the period.  
+ 
+CCR    The Catastrophe Containment and Relief (CCR) Trust provides debt relief to 
+eligible member countries facing exceptional balance of payments needs arising 
+from :  
+  (i) a qualifying  catastrophic  natural  disaster  under  the Post-Catastrophe  Relief  
+(PCR)  Window (as  previously provided under  the former Post-Catastrophe  Debt  
+Relief  (PCDR)  Trust) or 
+(ii) a qualifying  public  health  disaster  under  the Catastrophe  Containment  (CC)  
+Window. The CCR Trust replaced the PCDR Trust on February 4, 2015.  
+Number  of countries   Number  of countries  which  have  received  CCR Trust  debt relief.  
+Total Debt Relief    CCR Trust  resources  (excluding HIPC  debt relief)  disbursed  to members  
+during the period.  
+Arrears  
+GRA   Total overdue  GRA  financial  obligations.  
+PRG  Trust   Total overdue  PRGT  financial  obligations.  
+RS Trust   Total overdue RST financial obligations.  
+ 
+Key IMF Financial Statistics  
+4  
+  
+Trust Fund and other    Total overdue  financial  obligations  to the Trust  Fund and Structural Adjustment  
+Facility (SAF).  Although the  Trust Fund and SAF are no longer operational, 
+arrears to the  Trust Fund and SAF consist of overdue repayments, interest, or 
+charges on loans provided under these facilities.  
+Rates  
+US$ per SDR    Exchange  rate for the SDR  in terms  of U.S. dollars.  The latest currency  
+composition and weights for the SDR are available at 
+https://www.imf.org/external/np/fin/data/rms_sdrv.aspx   
+SDR interest rate    Interest rate calculated as the (combined market) weighted average of the three 
+month market interest rates on Chinese Renminbi, euro, Japanese yen, pound 
+sterling, and U.S. dollar  assets.  On October  24, 2014,  the Executive  Board  of the 
+IMF amended  the rule for setting the SDR interest rate to be the higher of (i) the 
+above combined market interest  rate or (ii) 0.050  percent,  the result  of which  is 
+rounded to three  (instead  of two) decimal places. (See: 
+https://www.imf.org/external/np/fin/data/sdr_ir.aspx ) 
+Rate of Charge, adjusted    The basic  rate of charge  on GRA  loans  is equal  to the SDR  interest rate plus 60 
+basis points to cover the IMF's cost of financing, additions to reserves, and 
+administrative expenses; and further adjusted by a small margin to compensate 
+for income forgone because of charges in arrears.  
+Rate of remuneration, adjusted   Interest rate paid to members that provide resources to the IMF. Adjusted by a 
+small margin  to allow  for special  additions  to reserves  and to compensate  for 
+income  forgone because of charges in arrears.  
+Investments  
+Amount    PRG and PRG -HIPC Trust resources invested in short --term deposits and medium -
+term instruments with the Bank for International Settlements (BIS) and bond 
+portfolios managed by external investment managers. Data from the first quarter of 
+2000 onward also include  sight  deposits.  The SDA  contains  the profits  (sales  
+proceeds  minus  the value of the gold at the acquisition cost) from sales of the IMF's 
+gold holdings.  
+Average yield (percent)    Weighted  average yield  on time deposits,  two days'  notice  accounts,  demand  
+deposit accounts, and fixed income securities.  
+Average maturity (months)    Weighted  average of remaining  maturity  of resources  placed  in time deposits  
+and the modified duration of fixed income securities.  
+ 
+  
+ 
+ 
+ 
+Key IMF Financial Statistics  
+5  
+  
+          Forward Commitment Capacity   
+       Term  Definition  
+Usable  Resources  
+Fund quota resources   The IMF holdings of SDRs and IMF’s holdings of the currencies of members 
+considered by the Executive Board to have a sufficiently strong balance of 
+payments and reserve position  for their currencies  to be used in the financing of IMF 
+transactions  (see Financial Transactions: http://www.imf.org/cgi- shl/create_x.pl?ftp)  
+Fund borrowed resources    Unused amounts, if any, under credit lines, such as under the New 
+Arrangements to Borrow  for financing drawings  under  Fund  commitments  
+approved during prior  NAB activation periods.  
+Repurchases one -year forward    Repayments  by member  countries  during the coming one-year period.  These  
+repurchases add to the supply of the IMF’s usable resources.  
+Repayments  of borrowings 
+one-year forward  Repayment  obligations  on Fund borrowing  and note placements  in the coming  one-
+year period,  including  drawings  and notes  reaching  final maturity  in the  next 12 
+months  plus any encashment requests for early repayment to be met over that same 
+period.  
+Prudential balance   Amount set aside to safeguard the liquidity of members’ claims and take account of 
+the potential erosion of the IMF’s  resource base.  The prudential  balance is set at 20 
+percent  of the quotas of members participating in the financing of IMF transactions 
+(Financial Transactions Plan) and any amounts made available under active bilateral borrowing and note purchase agreements with non- NAB participants, which were 
+terminated on April 1, 2013. The prudential balance currently does not cover the 
+encashment needs of NAB participants’ outstanding claims under bilateral 
+borrowing agreements that are folded into the NAB. Nor does it extend to the claims 
+of participants in the expanded NAB; as such resources are to be provided by setting 
+aside a portion of the total credit arrangements under the NAB. The prudential ratio of 20 percent as decided by the IMF’s Executive Board reflects  historical experience  
+and judgments  on the indicative  level  of uncommitted usable resources that the IMF 
+would normally not use to make financial commitments.  
+The prudential  balance  does not represent  a rigid  minimum  and IMF resources  could,  on a 
+strictly temporary basis, fall below this level.  
+Key IMF Financial Statistics  
+6  
+  
+                                            Current Financial Arrangements (GRA, PRGT, RST)  
+       Term  Definition  
+Arrangements   IMF credit  is made available  under  a variety  of borrowing arrangements  with different  
+disbursement  schedules  and maturities  depending on the balance of payment  needs  of the 
+member.  
+GRA 
+Stand -By Arrangements    The most  common type of credit  arrangement  designed to provide  short -term 
+financial assistance. Purchases under Stand -By Arrangements are repayable in 8 
+quarterly installments 3¼ -  5 years after disbursement.  
+Extended Arrangements    Extended Arrangements provide credit for a longer period since these 
+arrangements usually require  fundamental  reforms  which  may need  more  time to 
+put in place and take effect. Drawings under extended arrangements are repayable 
+in 12 semiannual installments 4½ -  10 years after disbursement.  
+Flexible Credit Line    The Flexible Credit Line (FCL) has been established to allow members with very 
+strong track records to access IMF resources based on pre -set qualification criteria 
+to deal with all types of balance of payments problems. The FCL could be used both 
+on a precautionary (crisis  prevention)  and non-precautionary  (crisis  resolution)  basis.  
+Purchases under FCL arrangements are repayable in 8 quarterly installments 3¼ -  5 
+years after disbursement.  
+Precautionary  and Liquidity Line The Precautionary and Liquidity Line (PLL), which replaces the Precautionary 
+Credit Line  (PCL),  has been established to meet  actual  or potential balance of 
+payments  needs  of members  with sound economic  fundamentals  and institutional 
+policy  frameworks  but with some remaining vulnerabilities that preclude them from 
+using the FCL. Purchases under PLL arrangements are repayable  in 8 quarterly 
+installments 3¼ -  5 years after disbursement.  
+PRG  Trust  
+ECF Arrangements   Concessional  arrangements  providing credit  in support  of a three -year macroeconomic 
+and structural adjustment program to eligible low -income members facing protracted 
+balance of payment issues (formerly known as PRGF). The loans are repayable in 10 
+equal semiannual installments 5½ -  10 years after disbursement.  
+SCF Arrangements   Concessional  arrangements  ranging from  one to two years  to provide  financial  
+assistance to low -income countries that are experiencing short -term but not 
+protracted balance of payments needs. The loans are repayable in 9 equal 
+semiannual installments 4 -  8 years after disbursement.  
+Interest  on all PRGT  loans  (including  outright  drawings  under  the RCF)  has been  waived 
+through end- December 2018.  
+RS Trust  
+Resilience and Sustainability       The RSF is designed to help members tackle longer -term challenges like climate change 
+and Facility Arrangement       pandemic preparedness. The arrangement should be accompanied by an upper credit  
+tranche program under the GRA and/or PRGT. Loans under the RSF are repayable in 20 
+equal semiannual installments 101/2 – 20 years after disbursement.  
+Key IMF Financial Statistics  
+7  
+                                         
+                                                  Current Financial Arrangements (GRA, PRGT, RST)  
+       Term  Definition  
+Arrangement  Details    IMF financial  arrangements  are reviewed  regularly  to assess  progress  in policy  reforms.  
+The disbursement  of funds  under  an arrangement  is linked  to the achievement  of certain 
+financial targets.  
+Next Scheduled Review   Expected  date the arrangement  will be reviewed  by the Executive  Board. 
+Date of Approval    Date the arrangement was approved by the Executive Board.  
+Date of Expiration   Arrangements  have  a specified  duration.  Commitments  are no longer  available  after the 
+expiration  of the arrangement.  
+Amount  Agreed   Amount  of credit  available  under  an arrangemen t 
+Undrawn  Balance  Amount  of credit  available  under  an arrangement  but not yet drawn.  
+Total Credit Outstanding   Total unpaid and outstanding principal due to the IMF under existing and expired 
+arrangements  
+Total Credit Outstanding as                  Total credit outstanding in terms of member's quota.                                                  
+percent of quota  
+Drawings available one -year   Credit available to a member under an arrangement (including expected augmentation of 
+forward     PRGT and RST arrangements) one -year forward.  
+Scheduled Repurchases and   The amount of funds scheduled to be repaid by the member one -year forward.  
+Repayments one -year forward  
+                  
+                                                        Status of Commitments of HIPC Assistance  
+       Term  Definition  
+Decision Point   Point  at which  the IMF decides  whether  a member  qualifies  for assistance  under  the 
+HIPC Initiative  (normally  at the end of the initial three -year performance  period)  and 
+decides  on the amount of assistance to be committed.  
+Completion Point   Point  at which the country receives the bulk of its assistance under the HIPC 
+Initiative, without any further policy conditions. Under the enhanced HIPC  
+Initiative, the timing of the  completion  point  is linked  to the implementation  of pre-
+agreed  key structural reforms (i.e., floating completion point).  
+Amount Committed    Amount  of HIPC  assistance  determined,  in consultation  with the World  Bank,  
+at the decision point to be made available by the IMF.  
+Amount  Disbursed   Resources  disbursed to the member  to help meet  debt service payments  to the IMF.  
+Disbursements  are normally  dependent  on receipt  of sufficient financing assurances  
+from other creditors.  
+ 
+                                                 Status of Multilateral Debt Relief Initiative Assistance  
+       Term  Definition  
+Debt Relief Delivery Date   The effective date of delivery of MDRI assistance to qualified members.  
+ Eligible Debt  
+GRA           Assistance that covers credit outstanding under the GRA.  
+PRGT         Assistance that covers credit outstanding under the PRG Trust.  
+RST          Assistance that covers credit outstanding under the RS Trust . 
+ 
