@@ -1,17 +1,36 @@
 # src/retrieval/reranker.py
 from sentence_transformers import CrossEncoder
-import re
+import numpy as np
 
 class Reranker:
+    def __init__(self, model_name="cross-encoder/ms-marco-MiniLM-L-6-v2"):
+        print(f"🧠 Loading Cross-Encoder model: {model_name}")
+        self.model = CrossEncoder(model_name)
+
     def rerank(self, query, docs, top_k=5):
-        # Simple numeric prioritization
-        scored_docs = []
-        for doc in docs:
-            score = doc.metadata.get("score", 0)
-            # Boost if contains numbers or keywords
-            if re.search(r"\d{4}|\d+\.\d+|Annex|Table", doc.page_content):
-                score += 2
-            scored_docs.append((doc, score))
-        # Sort by score
-        ranked = sorted(scored_docs, key=lambda x: x[1], reverse=True)
-        return [doc for doc, _ in ranked[:top_k]]
+        if not docs:
+            print("⚠️ No documents to rerank.")
+            return []
+
+        # Prepare (query, doc) pairs
+        pairs = [(query, doc.page_content) for doc in docs]
+
+        # Predict relevance scores
+        scores = self.model.predict(pairs)
+
+        # Normalize to 0–1
+        norm_scores = (scores - np.min(scores)) / (np.max(scores) - np.min(scores))
+        scored_docs = list(zip(docs, norm_scores))
+
+        # Combine docs with scores
+        scored_docs = list(zip(docs, norm_scores))
+
+        # Sort by score (descending)
+        reranked = sorted(scored_docs, key=lambda x: x[1], reverse=True)
+
+        print("\n📊 [DEBUG] Reranker Scores:")
+        for rank, (doc, score) in enumerate(reranked[:top_k], 1):
+            print(f"Rank {rank} | Score: {score:.4f} | Content: {doc.page_content[:100]}...")
+
+        # Return top_k docs
+        return [doc for doc, score in reranked[:top_k]]
