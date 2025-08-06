@@ -153,3 +153,7 @@ project/
 - **Hybrid Retriever** — Semantic + lexical search
 - **Cross-Encoder Reranker** — Improves ranking
 - **Ollama + Llama 3.1** — Local LLM inference
+
+
+⚠️ This repository includes only open-source code. IMF content is retrieved dynamically
+via the web crawler in compliance with public access policies.

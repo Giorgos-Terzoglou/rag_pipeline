@@ -25,3 +25,8 @@ Thumbs.db
 
 # Data folders (if large or generated)
 data/
+
+
+data/output/*
+data/pdf_texts/*
+data/pdf_tables/*
