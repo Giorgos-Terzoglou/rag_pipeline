@@ -1,39 +1,30 @@
-# --- Web crawling ---
-requests
-beautifulsoup4
-lxml
+# Core API
+fastapi
+uvicorn
 
-# --- PDF processing ---
-PyPDF2
-pdfplumber
-
-# --- Table extraction ---
-pandas
-html5lib
-
-# --- OCR for images (optional but useful) ---
-pytesseract
-Pillow
-
-# --- LangChain + embeddings ---
+# LangChain + integrations
 langchain
-langchain-community
+langchain_community
+langchain_experimental
+langchain_openai
+langchain_huggingface
+langchain_qdrant
+
+# Vector databases
+qdrant-client
+
+# Embeddings & Transformers
 sentence-transformers
-
-# --- Qdrant vector DB ---
-qdrant-client
-
-# --- Environment variables ---
-python-dotenv
-
-# --- Development tools ---
-tqdm
-
-langchain
-langgraph
-langchain-openai
-openai
-qdrant-client
 spacy
-en_core_web_trf @ https://github.com/explosion/spacy-models/releases/download/en_core_web_trf-3.7.3/en_core_web_trf-3.7.3-py3-none-any.whl
-langchain-experimental
+
+# Traditional IR (BM25)
+rank-bm25
+
+# Math / Utilities
+numpy
+
+# LLM client
+ollama
+
+# Optional: for semantic chunking dependencies
+tiktoken

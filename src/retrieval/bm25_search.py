@@ -1,6 +1,6 @@
 from rank_bm25 import BM25Okapi
 from qdrant_client import QdrantClient
-from langchain.schema import Document  # Needed to wrap documents
+from langchain.schema import Document 
 
 class BM25Retriever:
     def __init__(self, docs, collection_name="rag_collection"):
