@@ -1,42 +1,42 @@
 from rank_bm25 import BM25Okapi
 from qdrant_client import QdrantClient
+from langchain.schema import Document  # Needed to wrap documents
 
 class BM25Retriever:
-    def __init__(self, collection_name="rag_collection"):
-        print("📡 Loading BM25 documents from Qdrant (safe scroll)...")
+    def __init__(self, docs, collection_name="rag_collection"):
         self.client = QdrantClient(host="localhost", port=6333)
-
-        all_docs = []
-        next_offset = None
-        batch_size = 50  # keep small to avoid long URL issues
-
-        while True:
-            points, next_offset = self.client.scroll(
-                collection_name=collection_name,
-                limit=batch_size,
-                offset=next_offset,
-                with_payload=True
-            )
-
-            if not points:
-                break
-
-            for p in points:
-                text = p.payload.get("text", "")
-                if isinstance(text, str) and len(text.strip()) > 20:
-                    all_docs.append(text.strip())
-
-            if next_offset is None:  # ✅ stop when no more pages
-                break
-
-        if not all_docs:
-            print("⚠️ No valid BM25 documents found.")
-            self.bm25 = None
+        self.collection_name = collection_name
+        
+        # If no docs were passed, load them from Qdrant
+        if not docs:
+            self.docs = []
+            offset = None
+            while True:
+                points, next_offset = self.client.scroll(
+                    collection_name=self.collection_name,
+                    limit=100,
+                    offset=offset
+                )
+                if not points:
+                    break
+                for point in points:
+                    if "text" in point.payload and point.payload["text"].strip():
+                        self.docs.append(point.payload["text"])
+                    elif "page_content" in point.payload and point.payload["page_content"].strip():
+                        self.docs.append(point.payload["page_content"])
+                if next_offset is None:
+                    break
+                offset = next_offset
         else:
-            print(f"✅ Loaded {len(all_docs)} clean BM25 documents for BM25.")
-            tokenized_corpus = [doc.split() for doc in all_docs]
+            self.docs = [d for d in docs if d.strip()]
+
+        # Initialize BM25
+        if self.docs:
+            tokenized_corpus = [doc.split() for doc in self.docs]
             self.bm25 = BM25Okapi(tokenized_corpus)
-            self.all_docs = all_docs
+        else:
+            print("⚠️ Warning: BM25 corpus is empty.")
+            self.bm25 = None
 
     def search(self, query, k=10):
         if self.bm25 is None:
@@ -46,4 +46,6 @@ class BM25Retriever:
         tokenized_query = query.split()
         scores = self.bm25.get_scores(tokenized_query)
         top_k_idx = sorted(range(len(scores)), key=lambda i: scores[i], reverse=True)[:k]
-        return [self.all_docs[i] for i in top_k_idx]
+        
+        # Return Document + score pairs
+        return [(Document(page_content=self.docs[i], metadata={}), scores[i]) for i in top_k_idx]
