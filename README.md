@@ -3,6 +3,7 @@
 This project implements a **Retrieval-Augmented Generation (RAG)** pipeline designed to extract **key numbers, statistics, and trends** from IMF reports.  
 It integrates:
 - **Web Crawling** of IMF content (HTML, PDFs, tables)
+- **Data Cleaning** (remove boilerplate, non-English text)
 - **Hybrid Search** (BM25 + Vector Search) with Cross-Encoder reranking
 - **Local LLM (Llama 3.1 8B via Ollama)** for high-quality answers.
 
@@ -39,59 +40,47 @@ Outputs:
 
 ---
 
-### **2️⃣ Targeted Semantic Chunking**
-Chunks text into **semantic segments** to preserve numbers, statistics, and context.
+### **2️⃣ Data Cleaning (Boilerplate & Language Filtering)**
+
+After ingestion, remove **boilerplate phrases** and **non-English entries**:
+
+- **`clean_json_for_rag.py`**:
+  - Detects language (`langdetect`)
+  - Removes common IMF boilerplate patterns
+  - Outputs a cleaned dataset for embeddings
+
+Run cleaning:
+```bash
+python clean_json_for_rag.py
+```
+
+Outputs:
+- `data/output/collected_data_clean.json` — cleaned, English-only dataset
+
+---
+
+### **3️⃣ Targeted Semantic Chunking**
+Chunks cleaned text into **semantic segments** to preserve numbers, statistics, and context.
 ```bash
 python run_graph.py --build
 ```
 Outputs:
-- `1459 targeted chunks` ready for embedding
+- Targeted chunks ready for embedding and storage in Qdrant
 
 ---
 
-### **3️⃣ Embedding Generation**
-Embeddings generated for each chunk using:
-- **SentenceTransformers (all-MiniLM-L6-v2)** *(local, free)*
-- (Optional) **OpenAI text-embedding-3-small** *(cloud, paid)*
-```python
-vectors = embed_documents(chunks, use_openai=False)
-```
-Outputs:
-- `1459 vectors (dim=384)` stored with metadata
-
----
-
-### **4️⃣ Vector Search Test (FAISS)**
-Validate embedding relevance before uploading to Qdrant:
-```python
-results = similarity_search(query="What is the IMF World Economic Outlook?", k=3)
-```
-
----
-
-### **5️⃣ Upload to Qdrant**
-Store vectors & metadata:
-```bash
-docker run -p 6333:6333 qdrant/qdrant
-python upload_to_qdrant.py
-```
-Collection: `rag_collection`
-
----
-
-### **6️⃣ Hybrid Search (BM25 + Vector Search)**
-Retrieve documents using:
-- **BM25** (keyword search from Qdrant text payload)
+### **4️⃣ Hybrid Search (BM25 + Vector Search)**
+Retrieves documents using:
+- **BM25** (keyword search from Qdrant payload)
 - **Vector Search** (semantic similarity)
 - **Cross-Encoder Reranker** (precision improvement)
-```python
-candidates = hybrid_retriever.search(question, k=15)
-ranked = reranker.rerank(question, candidates, top_k=5)
+```bash
+python run_graph.py --query "Extract IMF's latest numbers and trends"
 ```
 
 ---
 
-### **7️⃣ Query the LLM (Llama 3.1 8B via Ollama)**
+### **5️⃣ Query the LLM (Llama 3.1 8B via Ollama)**
 Pass ranked context to local LLM:
 ```bash
 ollama pull llama3.1:8b
@@ -114,7 +103,6 @@ Trends:
 ---
 
 ## 📡 API Access (FastAPI)
-
 Expose the RAG system as an API:
 ```bash
 uvicorn api.main:app --host 0.0.0.0 --port 8000
@@ -128,8 +116,10 @@ Swagger Docs:
 ```
 project/
 │── data/
-│   ├── input/
-│   └── output/
+│   ├── output/
+│   ├── pdf_tables/
+│   ├── pdf_texts/
+│   └── pdfs/
 │── src/
 │   ├── ingestion/
 │   │   ├── web_crawler.py
@@ -147,6 +137,7 @@ project/
 │       └── rag_pipeline.py
 │── api/
 │   └── main.py
+│── clean_json_for_rag.py
 │── run_graph.py
 │── requirements.txt
 │── Dockerfile
@@ -157,8 +148,8 @@ project/
 
 ## 🔑 Key Components
 - **Web Scraper** (HTML, PDFs, Tables)
+- **Data Cleaner** (Language filter + boilerplate removal)
 - **Qdrant** — Vector DB for document storage + BM25
-- **FAISS** — Local similarity search for testing
 - **Hybrid Retriever** — Semantic + lexical search
 - **Cross-Encoder Reranker** — Improves ranking
 - **Ollama + Llama 3.1** — Local LLM inference
